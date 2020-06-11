@@ -653,7 +653,7 @@
 		},
 		{
 			"id": "122",
-			"question": "Two players met in three consecutive Wimbledon finals from 1988 through 1990? Name one of them!",
+			"question": "Two players met in three consecutive Wimbledon finals from 1988 through 1990. Name one of them?",
 			"answer": "Boris Becker and Stefan Edberg",
 			"category": "Tennis"
 		},
@@ -1296,7 +1296,7 @@
 		,
 		{
 			"id": "208",
-			"question": "Who is the political leader of Irish Solidarity party, People Before Profit?",
+			"question": "Who is the political leader of Irish Solidarity party - People Before Profit?",
 			"answer": "Richard Boyd Barrett",
 			"category": "Politics & Current Affairs"
 		}
@@ -1627,7 +1627,7 @@
 		,
 		{
 			"id": "242",
-			"question": "In the Muslim tradition, believers have a religious obligation to make a pilgrimage to Islam’s holiest city at least once during their lifetime, if they are able. Which is that city?",
+			"question": "In the Muslim tradition, believers have a religious obligation to make a pilgrimage to Islam’s holiest city at least once during their lifetime, if they are able. What is the name of that city?",
 			"answer": "Mecca, Saudi Arabia",
 			"category": "Religion"
 		}
@@ -1733,8 +1733,8 @@
 			"id": "255",
 			"question": "Name the action movie from this description!",
 			"answer": "Little Miss Sunshine",
-			"category": "Action Movies",
-			"quote": "Following the death of his wife, Los Angeles police detective Martin Riggs becomes reckless and suicidal. When he is reassigned and partnered with Roger Murtaugh, Riggs immediately clashes with the older officer."
+			"category": "Movies",
+			"quote": "A family decide to travel across the country when their daughter wants to participate in a beauty pageant, unaware of what the journey has in store for them."
 		}
 		,
 		{
@@ -2193,7 +2193,7 @@
 		{
 			"id": "313",
 			"question": "What three countries make up Scandinavia?",
-			"answer": "Norway, Sweden ad Denmark (not Finland)",
+			"answer": "Norway, Sweden and Denmark (not Finland)",
 			"category": "Countries of the World"
 		}
 		,
@@ -2513,7 +2513,7 @@
 		{
 			"id": "352",
 			"question": "Which song/artist won 'Record of the Year' and 'Song of the Year' at the 2020 Grammy Awards?",
-			"answer": "Billie Eilish Bad Guy",
+			"answer": "Billie Eilish - Bad Guy",
 			"category": "Music"
 		}
 		,
@@ -3156,7 +3156,7 @@
 		,
 		{
 			"id": "439",
-			"question": "Which country ruled Vietnam for decades prior to the Vietnam War??",
+			"question": "Which country ruled Vietnam for decades prior to the Vietnam War?",
 			"answer": "France",
 			"category": "War History"
 		}
