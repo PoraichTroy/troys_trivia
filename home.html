@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body style="background-color:#000;">
+		<div id="house">
+			<div id="home">
+				<h1><span id="heading" contenteditable spellcheck="false" style="font-size: 80px;">Troy's Triva</h1></br></br></br>
+					<h1 style="color:white"><font size="5">Please submit each player's name and then click 'Start Quiz'<font size="5"></h1>
+						  <input type="text" id="playerName" value="e.g. John"></br></br>
+						  <input type="submit" class="nextButton" onClick="addPlayer()" value="Submit">
+						  <a href="#" class="nextButton" onClick="clearPlayers()">Clear</a><br></br>
+						  <a href="#" class="nextButton" onClick="navigateToQuiz()">Start Quiz</a>
+				<div id="rightPanel" style="visibility:hidden;">
+					<h2 style="color:white">Players Added: <span id="playersAdded" style="color:red"></span></h3>
+				</div>
+			</div>
+		</div>
+</body>
+<script>
+	var players = [];
+	var ctr = 0;
+	var playerList = "";
+	var input = document.getElementById("playerName");
+		 document.getElementById('playerName').onkeydown = function(e){
+	   if(e.keyCode == 13){
+		 addPlayer()
+	   }
+	};
+
+	function addPlayer() {
+		 var player = document.getElementById("playerName").value;
+		 players.push(player);
+		 playerList = playerList + "<br/>" + player;
+		 console.log(playerList);
+		 document.getElementById('playersAdded').innerHTML = playerList;
+		 document.getElementById("rightPanel").style.visibility = "visible";
+		 document.getElementById('playerName').value = "";
+	}
+
+	function clearPlayers() {
+		document.getElementById("rightPanel").style.visibility = "hidden";
+		playerList = "";
+		players = [];
+	}
+
+	function navigateToQuiz() {
+		localStorage.setItem("players", JSON.stringify(players));
+		location.replace("C:/Users/Public/git/covid_quiz/quiz.html");
+		window.open("C:/Users/Public/git/covid_quiz/answer.html");
+	}
+</script>
+</html>
