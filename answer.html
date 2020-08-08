@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Quiz_Answer</title>
+	<link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body style="background-color:#E7DFDD;">
+			<div class="quizMaster">
+				<a href="#" class="nextAnswer" onClick="getMyAnswer()">Next Answer</a>
+				<h1>Answer:<br/><span id="hidden_answer" style="color:blue"></span></h1>
+			</div>
+</body>
+<script>
+	var currentAnswer = "Not yet defined"
+	function getMyAnswer() {
+		currentAnswer = localStorage.getItem("answer");
+		console.log("Answer is " + currentAnswer);
+		document.getElementById('hidden_answer').innerHTML = currentAnswer;
+		document.getElementById('categories').style.display = 'block';
+	}
+</script>
+</html>
