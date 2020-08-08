@@ -8,7 +8,7 @@
 				"id": "2",
 				"question": "Which member of The Beatles narrated the first series of Thomas the Tank Engine on TV?",
 				"answer": "Ringo Starr",
-				"category": "TV Shows"
+				"category": "Pot Luck"
 			}, {
 				"id": "3",
 				"question": "What was the first horror movie to receive a Best Picture nomination at the Academy Awards in 1973?",
@@ -18,12 +18,12 @@
 				"id": "4",
 				"question": "What is the birthname of Sir Elton John?",
 				"answer": "Reginald Kenneth Dwight",
-				"category": "Music"
+				"category": "Pot Luck"
 			}, {
 				"id": "5",
 				"question": "What is the capital of Latvia?",
 				"answer": "Riga",
-				"category": "Countries of the World"
+				"category": "World Geography"
 			}, {
 				"id": "6",
 				"question": "What is the name of the Hindu festival of lights?",
@@ -52,7 +52,7 @@
 			}, {
 				"id": "11",
 				"question": "How many balls are on a snooker table at the start of a frame, including the white?",
-				"answer": "22",
+				"answer": "22 (15 red, white, yellow, green, brown, blue, pink, black)",
 				"category": "Sport"
 			}, {
 				"id": "12",
@@ -76,12 +76,12 @@
 				"category": "Sitcoms"
 			}, {
 				"id": "16",
-				"question": "What is the name of the coffee shop in Friends?",
+				"question": "What is the name of the coffee shop in 'Friends'?",
 				"answer": "Central Perk",
 				"category": "Sitcoms"
 			}, {
 				"id": "17",
-				"question": "In an episode of which US sitcom did Colin Farrell play Billy Callahan, a man injured in a bar fight?",
+				"question": "Colin Farrell played the character of Billy Callahan in an episode of which 00s sitcom?",
 				"answer": "Scrubs",
 				"category": "Sitcoms"
 			}, {
@@ -96,9 +96,10 @@
 				"category": "TV Shows"
 			}, {
 				"id": "20",
-				"question": "What was the highest grossing DC movie before the release of 'Joker' in 2019?",
-				"answer": "The Dark Knight ($533.3 million)",
-				"category": "Superhero Movies"
+				"question": "The below dialog is from which comedy movie?",
+				"answer": "Airplane!",
+				"category": "Comedy Movies",
+				"quote": "Dr. Rumack: Can you fly this plane and land it?<br></br>Ted Striker: Surely you can't be serious<br></br>Dr. Rumack:</b> I am serious, and don't call me Shirley."
 			}, {
 				"id": "21",
 				"question": "What is the name of the main progatonist in the 'Uncharted' videogame series?",
@@ -106,8 +107,8 @@
 				"category": "Videogames"
 			}, {
 				"id": "22",
-				"question": "Doctor Neo Cortex is the villain in which video game series?",
-				"answer": "Crash Bandicoot ",
+				"question": "Doctor Neo Cortex is a villain from which videogame series?",
+				"answer": "Crash Bandicoot",
 				"category": "Videogames"
 			}, {
 				"id": "23",
@@ -126,7 +127,7 @@
 				"category": "Football"
 			}, {
 				"id": "26",
-				"question": "Who is the only substitute to score four goals in a Premier League match?",
+				"question": "Who is the only substitute to score 4 goals in a Premier League match?",
 				"answer": "Ole Gunnar Solskjaer (Nottingham Forest 1-8 Man Utd)",
 				"category": "Football"
 			}, {
@@ -146,7 +147,7 @@
 				"category": "Football"
 			}, {
 				"id": "30",
-				"question": "Which nation has never won a World Cup but has reached the final 3 times?",
+				"question": "Which nation has never won the World Cup but has reached the final 3 times?",
 				"answer": "Netherlands",
 				"category": "Football"
 			}, {
@@ -166,7 +167,7 @@
 				"category": "Rugby"
 			}, {
 				"id": "34",
-				"question": "What is the nickname of the Austrailian rugby union team?",
+				"question": "What is the nickname of the Australian rugby union team?",
 				"answer": "The Wallabies",
 				"category": "Rugby"
 			}, {
@@ -181,12 +182,12 @@
 				"category": "Rugby"
 			}, {
 				"id": "37",
-				"question": "Which nation has never won a rugby World Cup but has reached the final 3 times?",
+				"question": "Which nation has never won the Rugby World Cup but has reached the final 3 times?",
 				"answer": "France",
 				"category": "Rugby"
 			}, {
 				"id": "38",
-				"question": "Which rugby player has scored the most tries for Ireland from the current squad?",
+				"question": "From the current Irish rugby squad, who has scored the most tries?",
 				"answer": "Keith Earls (30)",
 				"category": "Rugby"
 			}, {
@@ -236,7 +237,7 @@
 				"category": "Rugby"
 			}, {
 				"id": "48",
-				"question": "What is the name of this Tottenham footballer?",
+				"question": "What is the name of this footballer?",
 				"answer": "Troy Parrott",
 				"category": "Football",
 				"picture": "football_48.jpg"
@@ -272,13 +273,14 @@
 				"id": "54",
 				"question": "What movie is this scene from?",
 				"answer": "The Hangover",
-				"category": "Movies",
+				"category": "Comedy Movies",
 				"picture": "movie_54.jpg"
 			}, {
 				"id": "55",
-				"question": "The actor who played 'Chris Chambers' in 'Stand by Me' tragically passed away at the age of 23 in 1993. What Oscar winning actor is his younger brother?",
-				"answer": "Joaquin Phoenix",
-				"category": "Movies"
+				"question": "The below quote is from what comedy movie?",
+				"answer": "Anchorman: The Legend of Ron Burgundy",
+				"category": "Comedy Movies",
+				"quote": "Discovered by the Germans in 1904, they named it San Diego, which of course in German means 'a whale's vagina'"
 			}, {
 				"id": "56",
 				"question": "What movie is this scene from?",
@@ -293,10 +295,10 @@
 				"picture": "movie_57.jpg"
 			}, {
 				"id": "58",
-				"question": "What movie is this scene from?",
-				"answer": "Goodfellas",
-				"category": "Movies",
-				"picture": "movie_58.jpg"
+				"question": "The below dialog is from which comedy movie?",
+				"answer": "Step Brothers",
+				"category": "Comedy Movies",
+				"quote": "D: Why do you have Randy Jackson's autograph on a martial arts weapon<br></br>B: Cause I bumped into him and all I had on me was this samurai sword. And you're not gonna not get Randy Jackson's autograph, right?<br></br>D: I would've done the exact same thing."
 			}, {
 				"id": "59",
 				"question": "What movie is this scene from?",
@@ -380,7 +382,7 @@
 				"category": "50s & 60s Music"
 			}, {
 				"id": "73",
-				"question": "Which artist who recently passed away in May 2020 had a 1956 hit single, 'Long Tall Sally'?",
+				"question": "Which artist who passed away in May 2020 had a 1956 hit single, 'Long Tall Sally'?",
 				"answer": "Little Richard (Richard Penniman)",
 				"category": "50s & 60s Music"
 			}, {
@@ -419,11 +421,6 @@
 				"id": "81",
 				"question": "Which song from Grease sold the most singles in the UK?",
 				"answer": "You’re the One That I Want",
-				"category": "70s Music"
-			}, {
-				"id": "81",
-				"question": "Which 1977 movie soundtrack included a number of songs from the Bee Gees including 'Stayin Alive' and 'How Deep Is Your Love'",
-				"answer": "Saturday Night Fever",
 				"category": "70s Music"
 			}, {
 				"id": "82",
@@ -475,9 +472,10 @@
 				"category": "Food & Drink"
 			}, {
 				"id": "91",
-				"question": "Aduki, borlotti and cannellini are types of what?",
-				"answer": "Beans",
-				"category": "Food & Drink"
+				"question": "The below dialog is from which comedy movie?",
+				"answer": "Dumb and Dumber",
+				"category": "Comedy Movies",
+				"quote": "Man: What are the chances of a guy like you and a girl like me... ending up together</br>Woman: Not good.</br>Man: Not good like one in a hundred?</br>Woman: I'd say more like one in a million.</br>Man: So you're telling me there's a chance?"
 			}, {
 				"id": "92",
 				"question": "Gluten is found in which cereal grain?",
@@ -503,7 +501,7 @@
 				"question": "What is the name of this celebrity chef?",
 				"answer": "Bobby Flay",
 				"category": "Food & Drink",
-				"picture": "food_96.jpg"
+				"picture": "food_96.jpeg"
 			}, {
 				"id": "97",
 				"question": "What is the name of this celebrity chef?",
@@ -531,7 +529,7 @@
 			}, {
 			"id": "101",
 			"question": "Who is currently the top ranked golf player in the world?",
-			"answer": "Rory McIlroy",
+			"answer": "Justin Thomas",
 			"category": "Golf"
 		},
 		{
@@ -598,12 +596,6 @@
 			"category": "Golf"
 		},
 		{
-			"id": "113",
-			"question": "Which golf term is defined as the 'area of grass surrounding the putting surface'?",
-			"answer": "Apron",
-			"category": "Golf"
-		},
-		{
 			"id": "114",
 			"question": "In which US city is the Torrey Pines Golf Club?",
 			"answer": "San Diego, California",
@@ -653,7 +645,7 @@
 		},
 		{
 			"id": "122",
-			"question": "Two players met in three consecutive Wimbledon finals from 1988 through 1990. Name one of them?",
+			"question": "Two players met in three consecutive Wimbledon finals from 1988 through 1990. Name one of them!",
 			"answer": "Boris Becker and Stefan Edberg",
 			"category": "Tennis"
 		},
@@ -664,14 +656,8 @@
 			"category": "Tennis"
 		},
 		{
-			"id": "124",
-			"question": "What is the nickname of Tipperary hurler, John O'Dwyer?",
-			"answer": "Bubbles",
-			"category": "GAA"
-		},
-		{
 			"id": "125",
-			"question": "Which County GAA team are nicknamed 'The Royals'",
+			"question": "Which county GAA team are nicknamed 'The Royals'",
 			"answer": "Meath",
 			"category": "GAA"
 		},
@@ -707,14 +693,8 @@
 		},
 		{
 			"id": "131",
-			"question": "Who is this hurler?",
-			"answer": "Joe Canning",
-			"category": "GAA"
-		},
-		{
-			"id": "131",
-			"question": "Which Galway Senior Championship Hurling club does Joe Canning play for?",
-			"answer": "Portumna",
+			"question": "Which club has won the All-Ireland Senior Club Hurling Championship the most times?",
+			"answer": "Ballyhale Shamrocks - Kilkenny (8)",
 			"category": "GAA"
 		},
 		{
@@ -749,8 +729,8 @@
 		},
 		{
 			"id": "136",
-			"question": "Who beat Dublin in 2019 to knock them out of the All-Ireland Senior Hurling Championship?",
-			"answer": "Laois",
+			"question": "What is the nickname of Tipperary hurler, Patrick Maher?",
+			"answer": "Bonner",
 			"category": "GAA"
 		},
 		{
@@ -790,15 +770,9 @@
 			"category": "GAA"
 		},
 		{
-			"id": "142",
+			"id": "143",
 			"question": "Which Donegal footballer was on the 2019 Gaelic Football All Star team?",
 			"answer": "Michael Murphy",
-			"category": "GAA"
-		},
-		{
-			"id": "143",
-			"question": "How many Hurler of the Year All Stars have Kilkenny won?",
-			"answer": "10 (2000, 2002, 2003, 2006, 2008, 2009, 2011, 2012, 2014, 2015)",
 			"category": "GAA"
 		},
 		{
@@ -809,7 +783,7 @@
 		},
 		{
 			"id": "145",
-			"question": "Lee Chin plays hurling for which County?",
+			"question": "Lee Chin plays hurling for which county?",
 			"answer": "Wexford",
 			"category": "GAA"
 		},
@@ -878,8 +852,8 @@
 		},
 		{
 			"id": "155",
-			"question": "What nationality is Robert Lewandowski?",
-			"answer": "Polish",
+			"question": "What nationality is Luis Suárez?",
+			"answer": "Uruguayan",
 			"category": "Football"
 		},
 		{
@@ -908,7 +882,7 @@
 			"question": "Who has managed the following clubs?",
 			"answer": "Roy Hodgson",
 			"category": "Football",
-			"quote": "Liverpool, Crystal Palace, West Brom, Fulham"
+			"quote": "Liverpool, Fulham, Crystal Palace, West Brom"
 		},
 		{
 			"id": "160",
@@ -926,7 +900,7 @@
 		},
 		{
 			"id": "162",
-			"question": "In 'Father Ted' which comedian played the Referee for the 'All-Priests five-a-side Over-75s Indoor Challenge Football Match'?",
+			"question": "In 'Father Ted' which Irish comedian played the Referee for the 'All-Priests five-a-side Over-75s Indoor Challenge Football Match'?",
 			"answer": "Jason Byrne",
 			"category": "Sitcoms"
 		},
@@ -960,9 +934,9 @@
 		,
 		{
 			"id": "165",
-			"question": "Paul Mescal who plays the character of Connell Waldron in 'Normal People' played under 21's gaelic football for which county?",
-			"answer": "Kildare",
-			"category": "Irish TV"
+			"question": "Lenny Abrahamson who directed 'Normal People' was nominated for Best Director at the 2015 Oscars for which movie?",
+			"answer": "Room",
+			"category": "Pot Luck"
 		}
 		,
 		{
@@ -1000,7 +974,7 @@
 		{
 			"id": "170",
 			"question": "What is the name of this character and TV show?",
-			"answer": "Gustavo Fring - Breaking Bad",
+			"answer": "Gustavo Fring - Breaking Bad/Better Call Saul",
 			"category": "TV Shows",
 			"picture": "tv_170.jpg"
 		}
@@ -1060,9 +1034,9 @@
 		{
 			"id": "177",
 			"question": "Name the TV show from the below description!",
-			"answer": "Mr. Robot",
+			"answer": "Firefly",
 			"category": "TV Shows",
-			"quote": "Elliot, a young programmer who works as a cyber-security engineer by day and as a vigilante hacker by night. Elliot finds himself at a crossroads when the mysterious leader of an underground hacker group recruits him to destroy the firm he is paid to protect."
+			"quote": "A group of rebels travel the outskirts of space aboard their ship, Serenity. They travel outside the reach of the Alliance, a sinister regime that controls most of the universe. After the crew takes in Simon and his psychic sister, River, they find themselves being pursued by the Operative, an Alliance agent who will stop at nothing to find them."
 		}
 		,
 		{
@@ -1070,7 +1044,7 @@
 			"question": "Name the TV show from the below description!",
 			"answer": "Succession",
 			"category": "TV Shows",
-			"quote": "The Logan family is known for controlling the biggest media and entertainment company in the world. However, their world changes when their father steps down from the company."
+			"quote": "The Roy family is known for controlling the biggest media and entertainment company in the world. However, their world changes when their father steps down from the company."
 		}
 		,
 		{
@@ -1100,12 +1074,12 @@
 			"question": "Which superhero movie and character is this?",
 			"answer": "Logan - Caliban",
 			"category": "Superhero Movies",
-			"picture": "superhero_181"
+			"picture": "superhero_181.jpg"
 		}
 		,
 		{
 			"id": "182",
-			"question": "Which actor made a cameo appearance in Deadpool 2 as the Vanisher, a muntant with the power of invisibility?",
+			"question": "Which actor made a cameo appearance in Deadpool 2 as the Vanisher, a mutant with the power of invisibility?",
 			"answer": "Brad Pitt",
 			"category": "Superhero Movies"
 		}
@@ -1137,15 +1111,15 @@
 			"question": "What superhero movie is this?",
 			"answer": "Guardians of the Galaxy Vol. 2",
 			"category": "Superhero Movies",
-			"picture": "superhero_187.jpg"
+			"picture": "superhero_187.png"
 		}
 		,
 		{
 			"id": "188",
-			"question": "What superhero movie is this?",
-			"answer": "Guardians of the Galaxy Vol. 2",
-			"category": "Superhero Movies",
-			"picture": "superhero_187.jpg"
+			"question": "What animated movie stars all of the below voice actors?",
+			"answer": "The Lion King",
+			"category": "Animated Movies",
+			"quote": "Rowan Atkinson, Whoopi Goldberg, Matthew Broderick, James Earl Jones, Jeremy Irons"
 		}
 		,
 		{
@@ -1159,7 +1133,7 @@
 		{
 			"id": "190",
 			"question": "What is the name of this Marvel villain?",
-			"answer": "Whiplash",
+			"answer": "Whiplash/Ivan Vanko",
 			"category": "Superhero Movies",
 			"picture": "superhero_190.png"
 		}
@@ -1259,8 +1233,8 @@
 		,
 		{
 			"id": "203",
-			"question": "Who is currently the Irish Minister for Justice and Equality?",
-			"answer": "Charlie Flanagan",
+			"question": "Who is currently the Irish Minister for Agriculture, Food and the Marine?",
+			"answer": "Dara Calleary",
 			"category": "Politics & Current Affairs"
 		}
 		,
@@ -1296,15 +1270,8 @@
 		,
 		{
 			"id": "208",
-			"question": "Who is the political leader of Irish Solidarity party - People Before Profit?",
+			"question": "Who is the political leader of the Irish Solidarity party - People Before Profit?",
 			"answer": "Richard Boyd Barrett",
-			"category": "Politics & Current Affairs"
-		}
-		,
-		{
-			"id": "208",
-			"question": "Name 4 of the 6 founding members of the European Union!",
-			"answer": "Belgium, France, West Germany, Italy, Luxembourg, Netherlands",
 			"category": "Politics & Current Affairs"
 		}
 		,
@@ -1362,9 +1329,10 @@
 		,
 		{
 			"id": "216",
-			"question": "The line 'Here's Johnny!' is from which 1980 horror movie?",
+			"question": "Name the horror movie from the below descripion!",
 			"answer": "The Shining",
-			"category": "Horror Movies"
+			"category": "Horror Movies",
+			"quote": "Jack Torrance becomes winter caretaker at the isolated Overlook Hotel in Colorado, hoping to cure his writer's block. He settles in along with his wife, Wendy and his son, Danny who is plagued by psychic premonitions. As Jack's writing goes nowhere and Danny's visions become more disturbing, Jack discovers the hotel's dark secrets and begins to unravel into a homicidal maniac hell-bent on terrorizing his family."
 		}
 		,
 		{
@@ -1419,9 +1387,9 @@
 		,
 		{
 			"id": "223",
-			"question": "In NBA basketball, what distance is the 3 point arc from the centre of the basket?",
-			"answer": "23 feet 9 inches (7.24 m)",
-			"category": "American Sport"
+			"question": "Who is the only actor to win the Oscar for Best Actor 3 times?",
+			"answer": "Daniel Day-Lewis (My Left Foot, There Will Be Blood, Lincoln)",
+			"category": "Pot Luck"
 		}
 		,
 		{
@@ -1432,95 +1400,46 @@
 		}
 		,
 		{
-			"id": "224",
+			"id": "225",
 			"question": "Which motor company is the largest manufacturer of motorcycles in the world?",
 			"answer": "Honda",
 			"category": "Cars & Automobiles"
 		}
 		,
 		{
-			"id": "225",
+			"id": "226",
 			"question": "The 'Washington Nationals' are a team in which American sport?",
 			"answer": "Baseball",
 			"category": "American Sport"
 		}
 		,
 		{
-			"id": "225",
+			"id": "227",
 			"question": "The 'New York Yankees' baseball team are from which of the New York City boroughs?",
 			"answer": "The Bronx",
 			"category": "American Sport"
 		}
 		,
 		{
-			"id": "226",
-			"question": "What is the name of the cup in the American National Hockey League?",
-			"answer": "Stanley Cup",
-			"category": "American Sport"
+			"id": "228",
+			"question": "What animated movie series stars all of the below voice actors?",
+			"answer": "Kung Fu Panda",
+			"category": "Animated Movies",
+			"quote": "Angelina Jolie, Seth Rogen, Jack Black, Dustin Hoffman, Jackie Chan" 
 		}
 		,
 		{
-			"id": "225",
+			"id": "229",
 			"question": "What was the name of the tribunal of inquiry into certain planning matters and payments which resulted in Bertie Ahern's resignation in 2008?",
 			"answer": "Mahon Tribunal",
 			"category": "Politics & Current Affairs"
 		}
 		,
 		{
-			"id": "226",
+			"id": "230",
 			"question": "The 'Chicago Blackhawks' are a team in which American sport?",
 			"answer": "Ice Hockey",
 			"category": "American Sport"
-		}
-		,
-		{
-			"id": "226",
-			"question": "In which city is the largest hockey arena in the world?",
-			"answer": "Montreal - The Bell Centre",
-			"category": "American Sport"
-		}
-		,
-		{
-			"id": "227",
-			"question": "Hockey is played on an ice surface known as what?",
-			"answer": "Rink",
-			"category": "American Sport"
-		}
-		,
-		{
-			"id": "228",
-			"question": "What material is an ice hockey puck made from?",
-			"answer": "Vulcanized Rubber",
-			"category": "American Sport"
-		}
-		,
-		{
-			"id": "229",
-			"question": "What was the name of the Irish racehorse which was stolen from Aga Khan's stud farm in 1983?",
-			"answer": "Shergar",
-			"category": "Sport"
-		}
-		,
-		{
-			"id": "230",
-			"question": "Who won the 2020 PDC World Darts Championship?",
-			"answer": "Peter Wright",
-			"category": "Sport"
-		}
-		,
-		{
-			"id": "229",
-			"question": "what movie starred all of the below actors?",
-			"answer": "Intermission",
-			"category": "Movies",
-			"quote": "Colin Farrell, Deirdre O'Kane, Cillian Murphy, Colm Meaney"
-		}
-		,
-		{
-			"id": "230",
-			"question": "Who won the 2020 PDC World Darts Championship?",
-			"answer": "Peter Wright",
-			"category": "Sport"
 		}
 		,
 		{
@@ -1571,13 +1490,6 @@
 		,
 		{
 			"id": "235",
-			"question": "Which make of tractor is known for it's colours, green and yellow?",
-			"answer": "John Deere",
-			"category": "Cars & Automobiles"
-		}
-		,
-		{
-			"id": "235",
 			"question": "Name the part of the car that helps get the power from the engine to the wheels to turn them?",
 			"answer": "Driveshaft",
 			"category": "Cars & Automobiles"
@@ -1598,22 +1510,15 @@
 		}
 		,
 		{
-			"id": "238",
-			"question": "What is stored in the radiator of a car?",
-			"answer": "Coolant",
-			"category": "Cars & Automobiles"
-		}
-		,
-		{
 			"id": "239",
-			"question": "The 'Almera' and 'Primera' are former models by which car manufacturer?",
+			"question": "The Almera and Primera are former models by which car manufacturer?",
 			"answer": "Nissan",
 			"category": "Cars & Automobiles"
 		}
 		,
 		{
 			"id": "240",
-			"question": "The 'Punto' and 'Panda' are models by which car manufacturer?",
+			"question": "The Punto and Panda are models by which car manufacturer?",
 			"answer": "Fiat",
 			"category": "Cars & Automobiles"
 		}
@@ -1627,17 +1532,11 @@
 		,
 		{
 			"id": "242",
-			"question": "In the Muslim tradition, believers have a religious obligation to make a pilgrimage to Islam’s holiest city at least once during their lifetime, if they are able. What is the name of that city?",
+			"question": "In the Muslim tradition, believers have a religious obligation to make a pilgrimage to Islam’s holiest city at least once during their lifetime. What is the name of that city?",
 			"answer": "Mecca, Saudi Arabia",
 			"category": "Religion"
 		}
 		,
-		{
-			"id": "242",
-			"question": "In the Muslim tradition, believers have a religious obligation to make a pilgrimage to Islam’s holiest city at least once during their lifetime, if they are able. Which city is that?",
-			"answer": "Mecca, Saudi Arabia",
-			"category": "Religion"
-		},
 		{
 			"id": "243",
 			"question": "Which Bible figure of the Old Testament did God tell to sacrifice his son?",
@@ -1709,7 +1608,7 @@
 			"id": "252",
 			"question": "Name the movie from this description!",
 			"answer": "Good Will Hunting",
-			"category": "Action Movies",
+			"category": "Movies",
 			"quote": "A 20-year-old South Boston janitor is an unrecognized genius who, as part of a deferred prosecution agreement after assaulting a police officer, becomes a client of a therapist and studies advanced mathematics with a renowned professor."
 		}
 		,
@@ -1723,10 +1622,10 @@
 		,
 		{
 			"id": "254",
-			"question": "Name the action movie from this description!",
-			"answer": "The Terminator",
+			"question": "Name this action movie and actor!",
+			"answer": "Apocalypse Now - Martin Sheen",
 			"category": "Action Movies",
-			"quote": "A cyborg assassin is sent back in time to kill Sarah, a waitress, in a bid to stop her son who will wage a long war against his enemy in the future unless the course of history is altered."
+			"picture": "movie_254.png"
 		}
 		,
 		{
@@ -1739,10 +1638,10 @@
 		,
 		{
 			"id": "256",
-			"question": "Name the action movie from this description!",
-			"answer": "Lethal Weapon",
-			"category": "Movies",
-			"quote": "A family decide to travel across the country when their daughter wants to participate in a beauty pageant, unaware of what the journey has in store for them."
+			"question": "What comedy movie and character is the below quote from?",
+			"answer": "Dr. Evil - Austin Powers: International Man of Mystery",
+			"category": "Comedy Movies",
+			"quote": "You know, I have one simple request. And that is to have sharks with frickin' laser beams attached to their heads! Now evidently my cycloptic colleague informs me that that cannot be done. Ah, would you remind me what I pay you people for, honestly? Throw me a bone here!"
 		}
 		,
 		{
@@ -1755,10 +1654,10 @@
 		,
 		{
 			"id": "258",
-			"question": "What action movie is this quote from?",
-			"answer": "Taken",
+			"question": "What movie is this scene from?",
+			"answer": "The Matrix",
 			"category": "Action Movies",
-			"quote": "If you are looking for ransom, I can tell you I don't have money. But what I do have are a very particular set of skills, skills I have acquired over a very long career, skills that make me a nightmare for people like you. If you let my daughter go now, that'll be the end of it."
+			"picture": "movie_258.jpg"
 		}
 		,
 		{
@@ -1776,17 +1675,10 @@
 			"category": "Animated Movies",
 			"picture": "animated_260.png"
 		}
-		,
-		{
-			"id": "261",
-			"question": "Which Nothern Irish singer and songwriter had the 1967 hit single, 'Brown Eyed Girl'",
-			"answer": "Van Morrison",
-			"category": "50s & 60s Music"
-		}
 		, 
 		{
 			"id": "262",
-			"question": "Which 1950s music icon was tradgically killed in a plane crash at the age of 22?",
+			"question": "Which 1950s music icon was tragically killed in a plane crash at the age of 22?",
 			"answer": "Buddy Holly",
 			"category": "50s & 60s Music"
 		}
@@ -1800,7 +1692,7 @@
 		,
 		{
 			"id": "264",
-			"question": "The American sitcom 'Frasier' was a spinoff of what 80s TV series?",
+			"question": "The American sitcom 'Frasier' was a spinoff of which 80s TV series?",
 			"answer": "Cheers",
 			"category": "Sitcoms"
 		}
@@ -1810,7 +1702,7 @@
 			"question": "What is the name of this character and TV show?",
 			"answer": "Dwight Schrute - The Office",
 			"category": "Sitcoms",
-			"picture": "tv_265.jpg"
+			"picture": "tv_265.gif"
 		}
 		,
 		{
@@ -1818,7 +1710,7 @@
 			"question": "What is the name of this character and TV show?",
 			"answer": "Ron Swanson - Parks and Recreation",
 			"category": "Sitcoms",
-			"picture": "tv_266.jpg"
+			"picture": "tv_266.gif"
 		}
 		,
 		{
@@ -1908,13 +1800,6 @@
 		}
 		,
 		{
-			"id": "276",
-			"question": "Of what is 'Phonology' the study?",
-			"answer": "Sounds",
-			"category":  "Science"
-		}
-		,
-		{
 			"id": "277",
 			"question": "The MMR vaccine protects against which three diseases?",
 			"answer": "Measles, Mumps and Rubella (German measles)",
@@ -1923,7 +1808,7 @@
 		,
 		{
 			"id": "278",
-			"question": "'Hg' is the symbol for which chemical element?",
+			"question": "'Hg' is the symbol for which chemical element, once known as quicksilver?",
 			"answer": "Mercury",
 			"category": "Chemistry"
 		}
@@ -1985,17 +1870,10 @@
 		}
 		,
 		{
-			"id": "287",
-			"question": "What name is given for the number of protons found in the nucleus of an atom?",
-			"answer": "Atomic number",
-			"category": "Science"
-		}
-		,
-		{
 			"id": "288",
 			"question": "What is a material that will not carry an electrical charge called?",
 			"answer": "Insulator",
-			"category": "Science"
+			"category": "Physics"
 		}
 		,
 		{
@@ -2007,9 +1885,9 @@
 		,
 		{
 			"id": "290",
-			"question": "What is equal to mass times acceleration?",
-			"answer": "Force",
-			"category": "Science"
+			"question": "How many watts is one Horsepower?",
+			"answer": "746 watts",
+			"category": "Physics"
 		}
 		,
 		{
@@ -2043,15 +1921,15 @@
 		,
 		{
 			"id": "294",
-			"question": "Name the only two Counties to do 'The Double', winning both the All-Ireland Senior Football and Hurling Championships in the same year?",
+			"question": "Name the only two counties to do 'The Double', winning both the All-Ireland Senior Football and Hurling Championships in the same year?",
 			"answer": "Cork (1890, 1990) and Tipperary (1895, 1900)",
 			"category": "Sport"
 		}
 		,
 		{
 			"id": "294",
-			"question": "Who are the only Premier League team to have gone a full season unbeaten?",
-			"answer": "Arsenal",
+			"question": "What are the 3 football clubs to win the Premier League just once?",
+			"answer": "Blackburn Rovers (1994-95), Leicester City (2015-16), Liverpool (2019-20)",
 			"category": "Sport"
 		}
 		,
@@ -2105,28 +1983,21 @@
 			"id": "301",
 			"question": "What is the largest landlocked country in the world?",
 			"answer": "Kazakhstan",
-			"category": "Countries of the World"
+			"category": "World Geography"
 		}
 		,
 		{
 			"id": "302",
 			"question": "What country has the largest muslim population in the world?",
 			"answer": "Indonesia",
-			"category": "Countries of the World"
-		}
-		,
-		{
-			"id": "303",
-			"question": "What European country is divided into departments?",
-			"answer": "France",
-			"category": "Countries of the World"
+			"category": "Religion"
 		}
 		,
 		{
 			"id": "304",
 			"question": "What country is this?",
 			"answer": "Austria",
-			"category": "Countries of the World",
+			"category": "World Geography",
 			"picture": "country_304.jpg" 
 		}
 		,
@@ -2134,7 +2005,7 @@
 			"id": "305",
 			"question": "What country is this?",
 			"answer": "Thailand",
-			"category": "Countries of the World",
+			"category": "World Geography",
 			"picture": "country_305.jpg"
 		}
 		,
@@ -2142,7 +2013,7 @@
 			"id": "306",
 			"question": "What country is this?",
 			"answer": "Colombia",
-			"category": "Countries of the World",
+			"category": "World Geography",
 			"picture": "country_306.png"
 		}
 		,
@@ -2150,7 +2021,7 @@
 			"id": "307",
 			"question": "Which US state is this?",
 			"answer": "Illinois",
-			"category": "Countries of the World",
+			"category": "World Geography",
 			"picture": "country_307.png"
 		}
 		,
@@ -2158,57 +2029,57 @@
 			"id": "308",
 			"question": "What country is this?",
 			"answer": "Iran",
-			"category": "Countries of the World",
-			"picture": "country_308.jpg"
+			"category": "World Geography",
+			"picture": "country_308.png"
 		}
 		,
 		{
 			"id": "309",
 			"question": "What is the only country in the world which borders Denmark?",
 			"answer": "Germany",
-			"category": "Countries of the World"
+			"category": "World Geography"
 		}
 		,
 		{
 			"id": "310",
 			"question": "What is the capital of Switzerland?",
 			"answer": "Bern",
-			"category": "Countries of the World"
+			"category": "World Geography"
 		}
 		,
 		{
 			"id": "311",
 			"question": "What is the capital of Chile?",
 			"answer": "Santiago",
-			"category": "Countries of the World"
+			"category": "World Geography"
 		}
 		,
 		{
 			"id": "312",
 			"question": "What is the largest island in the world?",
 			"answer": "Greenland",
-			"category": "Countries of the World"
+			"category": "World Geography"
 		}
 		,
 		{
 			"id": "313",
 			"question": "What three countries make up Scandinavia?",
 			"answer": "Norway, Sweden and Denmark (not Finland)",
-			"category": "Countries of the World"
+			"category": "World Geography"
 		}
 		,
 		{
 			"id": "314",
-			"question": "Name one of the two double landlocked countries in the world! A country is double landlocked when it is surrounded only by landlocked countries.",
+			"question": "Name 1 of the 2 double landlocked countries in the world! A country is double landlocked when it is surrounded only by landlocked countries.",
 			"answer": "Liechtenstein or Uzbekistan",
-			"category": "Countries of the World"
+			"category": "World Geography"
 		}
 		,
 		{
 			"id": "315",
 			"question": "What country is this?",
 			"answer": "Algeria",
-			"category": "Countries of the World",
+			"category": "World Geography",
 			"picture": "country_315.jpg"
 		}
 		,
@@ -2337,13 +2208,6 @@
 		}
 		,
 		{
-			"id": "331",
-			"question": "Which of the Spice Girls left the group in 1998?",
-			"answer": "Geri Halliwell (Ginger Spice)",
-			"category": "90s Music"
-		}
-		,
-		{
 			"id": "332",
 			"question": "The Europop music group Aqua are from which country?",
 			"answer": "Denmark",
@@ -2367,17 +2231,10 @@
 		,
 		{
 			"id": "335",
-			"question": "What is the name of this electronic music duo?",
-			"answer": "Daft Punk",
-			"category": "90s Music",
-			"picture": "music_334.jpg"
-		}
-		,
-		{
-			"id": "335",
-			"question": "Which 90s girl group consited of members: 'T-Boyz', 'Left-Eye' and 'Chilli'?",
-			"answer": "TLC",
-			"category": "90s Music"
+			"question": "What song/artist are these lyrics from?",
+			"answer": "Harry Styles - Watermelon Sugar",
+			"category": "Modern Music",
+			"quote": "Tastes like strawberries on a summer evenin'</br>And it sounds just like a song</br>I want more berries and that summer feelin'</br>It's so wonderful and warm"
 		}
 		,
 		{
@@ -2385,20 +2242,13 @@
 			"question": "In which US city/state were the Backstreet Boys formed?",
 			"answer": "Orlando, Florida",
 			"category": "90s Music"
-		}
-		,
-		{
-			"id": "336",
-			"question": "In which US city/state were the Backstreet Boys formed?",
-			"answer": "Orlando, Florida",
-			"category": "Music"
 		}
 		,
 		{
 			"id": "337",
 			"question": "Mark Wahlberg's brother Donnie was in which famous boy band?",
 			"answer": "New Kids on the Block",
-			"category": "Music"
+			"category": "80s Music"
 		}
 		,
 		{
@@ -2462,14 +2312,14 @@
 			"id": "346",
 			"question": "Name 3 of the 5 members of Boyzone!",
 			"answer": "Keith Duffy, Stephen Gately, Mikey Graham, Ronan Keating, and Shane Lynch",
-			"category": "Music"
+			"category": "90s Music"
 		}
 		,
 		{
 			"id": "347",
 			"question": "Name 3 of the 5 members of Westlife!",
 			"answer": "Shane Filan, Mark Feehily, Kian Egan, Nicky Byrne and Brian McFadden",
-			"category": "Music"
+			"category": "00s Music"
 		}
 		,
 		{
@@ -2477,7 +2327,7 @@
 			"question": "What is the music group and song from this music video?",
 			"answer": "Beastie Boys - Sabotage",
 			"category": "90s Music",
-			"picture": "music_348.png"
+			"picture": "music_348.jpg"
 		}
 		,
 		{
@@ -2496,17 +2346,10 @@
 		}
 		,
 		{
-			"id": "350",
-			"question": "What is the alter-ego of Eminem used in the title of one of his songs from 2000?",
-			"answer": "Slim Shady",
-			"category": "Music"
-		}
-		,
-		{
 			"id": "351",
 			"question": "What music artist is this?",
 			"answer": "Post Malone",
-			"category": "Music",
+			"category": "Modern Music",
 			"picture": "music_351.jpg"
 		}
 		,
@@ -2514,28 +2357,28 @@
 			"id": "352",
 			"question": "Which song/artist won 'Record of the Year' and 'Song of the Year' at the 2020 Grammy Awards?",
 			"answer": "Billie Eilish - Bad Guy",
-			"category": "Music"
+			"category": "Modern Music"
 		}
 		,
 		{
 			"id": "353",
 			"question": "In 2002, Johnny Cash covered 'Hurt' which was one of the final hits released before his death. Which band recorded the original version?",
 			"answer": "Nine Inch Nails",
-			"category": "Music"
+			"category": "00s Music"
 		}
 		,
 		{
 			"id": "354",
 			"question": "Adam Levine is the lead vocalist in which pop band?",
 			"answer": "Maroon 5",
-			"category": "Music"
+			"category": "Modern Music"
 		}
 		,
 		{
 			"id": "355",
 			"question": "What music artist is this?",
 			"answer": "Charlie Puth",
-			"category": "Music",
+			"category": "Modern Music",
 			"picture": "music_355.jpg"
 		}
 		,
@@ -2574,33 +2417,33 @@
 		},
 		{
 			"id": "361",
-			"question": "What music video is the all time most viewed and most liked video on Youtube?",
-			"answer": " Despacito - Luis Fonsi featuring Daddy Yankee",
-			"category": "Music"
+			"question": "Complete the title of this famous novel '_________ 451'?",
+			"answer": "Fahrenheit",
+			"category": "Literature"
 		},
 		{
 			"id": "362",
 			"question": "Which music video is the second most disliked video on Youtube with 11.37 million dislikes? The current most disliked video is YouTube Rewind 2018: Everyone Controls Rewind.",
 			"answer": "Baby – Justin Bieber featuring Ludacris",
-			"category": "Music"
+			"category": "Pot Luck"
 		},
 		{
 			"id": "363",
 			"question": "What rapper plays 'Tej Parker' in the 'Fast & Furious' movies?",
 			"answer": "Ludacris (Christopher Bridges)",
-			"category": "Music"
+			"category": "Action Movies"
 		},
 		{
 			"id": "364",
 			"question": "The songs 'Dust Til Dawn' and 'A Whole New World' were recorded by which member of One Direction?",
 			"answer": "Zayn Malik",
-			"category": "Music"
+			"category": "Modern Music"
 		},
 		{
 			"id": "365",
 			"question": "What type of Electric Guitar was Jimi Hendrix known for playing?",
 			"answer": "Fender Stratocaster",
-			"category": "Music"
+			"category": "50s & 60s Music"
 		},
 		{
 			"id": "366",
@@ -2630,7 +2473,7 @@
 		,
 		{
 			"id": "370",
-			"question": "Jennifer Zamparelli (Maguire) first appeared on television in which British reality TV show?",
+			"question": "Jennifer Zamparelli (Maguire) first appeared on television in which British Reality TV show?",
 			"answer": "The Apprentice",
 			"category": "Reality TV"
 		}
@@ -2652,7 +2495,7 @@
 		,
 		{
 			"id": "373",
-			"question": "Name 2 of the 4 presenters of long-running children's television strand 'The Den'!",
+			"question": "Name 2 of the 4 presenters of long-running children's television strand, The Den!",
 			"answer": "Ian Dempsey, Ray D'Arcy, Damien McCaul, Francis Boylan",
 			"category": "Irish TV"
 		}
@@ -2670,14 +2513,6 @@
 			"answer": "Charlene McKenna",
 			"category": "Irish TV",
 			"picture": "tv_375.jpg"
-		}
-		,
-		{
-			"id": "376",
-			"question": "Who is this Irish actor from 'Raw' and 'Pure Mule'?",
-			"answer": "Charlene McKenna",
-			"category": "Irish TV",
-			"picture": "tv_376.jpg"
 		}
 		,
 		{
@@ -2745,14 +2580,15 @@
 			"id": "384",
 			"question": "In what year did condoms become legally available in the Republic of Ireland?",
 			"answer": "1980",
-			"category": "Irish History"
+			"category": "Pot Luck"
 		}
 		,
 		{
 			"id": "385",
-			"question": "In what year did condoms become legally available in the Republic of Ireland?",
-			"answer": "1980",
-			"category": "Irish History"
+			"question": "What song/artist are these lyrics from?",
+			"answer": "Lana Del Rey - Summertime Sadness",
+			"category": "Modern Music",
+			"quote": "I got my red dress on tonight</br>Dancin' in the dark in the pale moonlight</br>Done my hair up real big, beauty queen style</br>High heels off, I'm feelin' alive"
 		}
 		,
 		{
@@ -2772,7 +2608,7 @@
 		,
 		{
 			"id": "387",
-			"question": "After the UK (1st) and Ireland (2nd), what country is the 3rd largest consumer of Guinness?",
+			"question": "After the UK (1st) and Ireland (2nd), what country is the 3rd largest consumer of Guinness in the World?",
 			"answer": "Nigeria",
 			"category": "Food & Drink"
 		}
@@ -2856,13 +2692,6 @@
 		,
 		{
 			"id": "398",
-			"question": "What is the most populated town (not city) in the Republic of Ireland?",
-			"answer": "Drogheda (40,956)",
-			"category": "Irish Geography"
-		}
-		,
-		{
-			"id": "398",
 			"question": "Ballyjamesduff, Cootehill and Virginia are towns in which county?",
 			"answer": "Cavan",
 			"category": "Irish Geography"
@@ -2893,13 +2722,6 @@
 			"id": "402",
 			"question": "Where in Ireland would you find the 'Twelve Bens'?",
 			"answer": "Connemara National Park in County Galway",
-			"category": "Irish Geography"
-		}
-		,
-		{
-			"id": "403",
-			"question": "Name 3 of Ireland's top 5 most visited tourist attractions according to Fáilte Ireland",
-			"answer": "1) Guinness Storehouse 2) Cliffs of Moher 3) Dublin Zoo 4) Book of Kells 5) Tayto Park",
 			"category": "Irish Geography"
 		}
 		,
@@ -2974,7 +2796,7 @@
 			"question": "Who is this Reality TV star?",
 			"answer": "Spencer Matthews - Made in Chelsea",
 			"category": "Reality TV",
-			"picture": "reality_413.jpg"
+			"picture": "reality_413.jpeg"
 		}
 		,
 		{
@@ -3008,7 +2830,7 @@
 		,
 		{
 			"id": "418",
-			"question": "Craig Revel Horwood and Bruno Tonioli are judges in which reality show?",
+			"question": "Craig Revel Horwood and Bruno Tonioli are judges on which reality show?",
 			"answer": "Strictly Come Dancing",
 			"category": "Reality TV"
 		}
@@ -3017,26 +2839,26 @@
 			"id": "419",
 			"question": "In which Dublin hotel is First Dates Ireland filmed?",
 			"answer": "The Gibson Hotel",
-			"category": "Reality TV"
+			"category": "Irish TV"
 		}
 		,
 		{
 			"id": "420",
-			"question": "Which actor replaced Matt Damon as the leading man in the fourth Bourne movie, The Bourne Legacy?",
+			"question": "Which actor replaced Matt Damon as the leading man in the fourth Bourne movie, 'The Bourne Legacy'?",
 			"answer": "Jeremy Renner",
 			"category": "Action Movies"
 		}
 		,
 		{
 			"id": "421",
-			"question": "What historic event occurred on the Ides of March (15 March)of 44 BC during a meeting of the Senate at the Theatre of Pompey in Rome?",
-			"answer": "Jeremy Renner",
+			"question": "What historic event occurred on the Ides of March (15 March) of 44 BC during a meeting of the Senate at the Theatre of Pompey in Rome?",
+			"answer": "Julius Caesar was stabbed to death",
 			"category": "Medieval History"
 		}
 		,
 		{
 			"id": "422",
-			"question": "What name was given to the eastern empire that survived after the fall of the Western Roman Empire?",
+			"question": "What name was given to the Eastern empire that survived after the fall of the Western Roman Empire?",
 			"answer": "The Byzantine Empire",
 			"category": "Medieval History"
 		}
@@ -3123,7 +2945,7 @@
 			"id": "434",
 			"question": "In what year was the fall of the Berlin Wall?",
 			"answer": "1989",
-			"category": "War History"
+			"category": "History"
 		}
 		,
 		{
@@ -3135,7 +2957,7 @@
 		,
 		{
 			"id": "436",
-			"question": "What was the name of the masacre in which 22,000 Polish military officers were executed by the Soviet Union in 1940?",
+			"question": "What was the name of the massacre in which 22,000 Polish military officers were executed by the Soviet Union in 1940?",
 			"answer": "Katyn Massacre",
 			"category": "War History"
 		}
@@ -3216,5 +3038,1928 @@
 			"answer": "Diffusion",
 			"category": "Chemistry"
 		}
-	]
+		,
+		{
+			"id": "449",
+			"question": "What is the next number in the series: 2, 9, 30, 93, …?",
+			"answer": "282 (multiply by 3 and then add 3)",
+			"category": "Maths"
+		}
+		,
+		{
+			"id": "451",
+			"question": "Which prime number is closest to 100?",
+			"answer": "101",
+			"category": "Maths"
+		}
+		,
+		{
+			"id": "454",
+			"question": "If you throw two dice at the same time, what is the probability of getting a 6 on both?",
+			"answer": "1/36 (0.0278)",
+			"category": "Maths"
+		}
+		,
+		{
+			"id": "455",
+			"question": "Two coins are tossed. What is the probability that both land on heads?",
+			"answer": "1/4 (0.25)",
+			"category": "Maths"
+		}
+		,
+		{
+			"id": "457",
+			"question": "Danny is four times as old as Andrew. In 20 years time, Danny will be twice as old as Andrew? How old are Danny and Andrew now?",
+			"answer": "Danny is 40 and Andrew is 10",
+			"category": "Maths"
+		}
+		,
+		{
+			"id": "458",
+			"question": "What word describes a material which maintains a magnetic field after an external field is removed?",
+			"answer": "Ferromagnetic",
+			"category": "Physics"
+		}
+		,
+		{
+			"id": "459",
+			"question": "What did Galileo define as an object's ability to resist changes in motion?",
+			"answer": "Inertia",
+			"category": "Physics"
+		}
+		,
+		{
+			"id": "460",
+			"question": "Whose law states that the that the force needed to extend or compress a spring by some distance is proportional to that distance?",
+			"answer": "Hooke's law",
+			"category": "Physics"
+		}
+		,
+		{
+			"id": "461",
+			"question": "When light bends as it enters a different medium the process is known as what?",
+			"answer": "Refraction",
+			"category": "Physics"
+		}
+		,
+		{
+			"id": "462",
+			"question": "Electric resistance is typically measured in what units?",
+			"answer": "Ohms",
+			"category": "Physics"
+		}
+		,
+		{
+			"id": "463",
+			"question": "Which insect can indicate the air temperature?",
+			"answer": "Crickets (The frequency of chirping varies according to temperature)",
+			"category": "Science"
+		}
+		,
+		{
+			"id": "464",
+			"question": "What technological innovation is Guglielmo Marconi best known for?",
+			"answer": "Radio",
+			"category": "Physics"
+		}
+		,
+		{
+			"id": "465",
+			"question": "Who's law states that pressure of a given mass of an ideal gas at a constant temperature is inversely proportional to the pressure applied on it?",
+			"answer": "Boyle's Law",
+			"category": "Physics"
+		}
+		,
+		{
+			"id": "466",
+			"question": "What is J. Robert Oppenheimer remembered for?",
+			"answer": "The Atomic Bomb",
+			"category": "Physics"
+		}
+		,
+		{
+			"id": "467",
+			"question": "What are Kelvins used to measure?",
+			"answer": "Temperature",
+			"category": "Physics"
+		}
+		,
+		{
+			"id": "468",
+			"question": "What is 2020 in Roman Numerals?",
+			"answer": "MMXX",
+			"category": "Maths"
+		}
+		,
+		{
+			"id": "469",
+			"question": "The four fashion capitals of the 20th century were considered to be Paris, London, New York and which other city?",
+			"answer": "Milan",
+			"category": "Fashion & Cosmetics"
+		}
+		,
+		{
+			"id": "470",
+			"question": "What fashion designer was shot and killed in Miami, Florida in 1997?",
+			"answer": "Gianni Versace",
+			"category": "Fashion & Cosmetics"
+		}
+		,
+		{
+			"id": "471",
+			"question": "What name is given to a type of cloak, originating in South America, which resembles a blanket with a central hole for the head?",
+			"answer": "Poncho",
+			"category": "Fashion & Cosmetics"
+		}
+		,
+		{
+			"id": "472",
+			"question": "Who is this?",
+			"answer": "Calvin Klein",
+			"category": "Fashion & Cosmetics",
+			"picture": "fashion_472.jpg"
+		}
+		,
+		{
+			"id": "473",
+			"question": "Who is this?",
+			"answer": "Coco Chanel",
+			"category": "Fashion & Cosmetics",
+			"picture": "fashion_473.jpg"
+		}
+		,
+		{
+			"id": "474",
+			"question": "Fashion retailer H&M was founded in which European country?",
+			"answer": "Sweden",
+			"category": "Fashion & Cosmetics"
+		}
+		,
+		{
+			"id": "475",
+			"question": "Harris, Lewis and Donegal are all types of which fabric?",
+			"answer": "Tweed",
+			"category": "Fashion & Cosmetics"
+		}
+		,
+		{
+			"id": "475",
+			"question": "What generic term for perfume originated from the name of the city where Johann Maria Farina originally mixed it?",
+			"answer": "Cologne",
+			"category": "Fashion & Cosmetics"
+		}
+		,
+		{
+			"id": "476",
+			"question": "The popular perfume brand 'Heat' is endorsed by which celebrity?",
+			"answer": "Beyoncé",
+			"category": "Fashion & Cosmetics"
+		}
+		,
+		{
+			"id": "478",
+			"question": "Which clothing company was founded in 1933 by a French tennis player, nicknamed 'the Crocodile'?",
+			"answer": "Lacoste",
+			"category": "Fashion & Cosmetics"
+		}
+		,
+		{
+			"id": "479",
+			"question": "What clothing brand is represented by this logo?",
+			"answer": "Hollister",
+			"category": "Fashion & Cosmetics",
+			"picture": "fashion_479.png"
+		}
+		,
+		{
+			"id": "480",
+			"question": "What were the names of the 3 ships on Christopher Columbus's first voyage from Spain?",
+			"answer": "the Niña, the Pinta and the Santa Maria",
+			"category": "History"
+		}
+		,
+		{
+			"id": "481",
+			"question": "Who discovered Penicillin 1928?",
+			"answer": "Sir Alexander Fleming",
+			"category": "History"
+		}
+		,
+		{
+			"id": "483",
+			"question": "Who murdered Lee Harvey Oswald, after he was charged with the assassination of John F. Kennedy?",
+			"answer": "Jack Ruby",
+			"category": "History"
+		}
+		,
+		{
+			"id": "484",
+			"question": "Who was the leader of Britain’s ill-fated Antarctic expedition which was one of the first to reach the South Pole in 1912?",
+			"answer": "Robert F. Scott",
+			"category": "History"
+		}
+		,
+		{
+			"id": "485",
+			"question": "Who was Henry VII's last wife?",
+			"answer": "Catherine Parr",
+			"category": "History"
+		}
+		,
+		{
+			"id": "486",
+			"question": "Buzz Aldrin earned his nickname, 'Buzz' as a child when his little sister mispronounced the word 'brother' as 'buzzer'. What was his actual first name before he made 'Buzz' his legal name in 1988?",
+			"answer": "Edwin",
+			"category": "History"
+		}
+		,
+		{
+			"id": "487",
+			"question": "What is the largest moon of Saturn called?",
+			"answer": "Titan",
+			"category": "Science"
+		}
+		,
+		{
+			"id": "488",
+			"question": "Percy Spencer invented which time saving kitchen appliance?",
+			"answer": "The Microwave Cooker",
+			"category": "Science"
+		}
+		,
+		{
+			"id": "488",
+			"question": "ln Einstein’s famous theory 'E=mc2', what does the ‘c’ represent?",
+			"answer": "The Speed of Light",
+			"category": "Physics"
+		}
+		,
+		{
+			"id": "489",
+			"question": "The stirrup, the smallest bone in humans, is found in which part of the body?",
+			"answer": "The Ear",
+			"category": "Science"
+		}
+		,
+		{
+			"id": "490",
+			"question": "What was the name of the Soviet dog which was the first living thing to be launched into space?",
+			"answer": "Laika",
+			"category": "History"
+		}
+		,
+		{
+			"id": "491",
+			"question": "Which is the rarest blood type in humans?",
+			"answer": "AB negative (1% of people)",
+			"category": "Science"
+		}
+		,
+		{
+			"id": "492",
+			"question": "What type of sea creature is made up of 95% water?",
+			"answer": "Jellyfish",
+			"category": "Nature"
+		}
+		,
+		{
+			"id": "493",
+			"question": "What is the only bird that can fly backwards?",
+			"answer": "The Hummingbird",
+			"category": "Nature"
+		}
+		,
+		{
+			"id": "494",
+			"question": "What is the function of the Labyrinth in the human ear?",
+			"answer": "Maintains Balance",
+			"category": "Science"
+		}
+		,
+		{
+			"id": "494",
+			"question": "What was the first electronic computer called which was so large it filled a whole room and was used to solve large numerical equations?",
+			"answer": "ENIAC",
+			"category": "Science"
+		}
+		,
+		{
+			"id": "495",
+			"question": "How many years did the Hundred Years War last, a series of conflicts fought between England and France over succession to the French throne?",
+			"answer": "116 years",
+			"category": "History"
+		}
+		,
+		{
+			"id": "495",
+			"question": "What protein are nails and hair made from?",
+			"answer": "Keratin",
+			"category": "Science"
+		}
+		,
+		{
+			"id": "496",
+			"question": "What type of insect is a Red Admiral?",
+			"answer": "Butterfly",
+			"category": "Nature"
+		}
+		,
+		{
+			"id": "496",
+			"question": "What type of whale can live for up to 200 years?",
+			"answer": "Bowhead Whale",
+			"category": "Nature"
+		}
+		,
+		{
+			"id": "497",
+			"question": "What is a group of giraffes known as?",
+			"answer": "Tower",
+			"category": "Nature"
+		}
+		,
+		{
+			"id": "498",
+			"question": "Arsenal hold the record for the highest number of FA Cup wins. How many times have they won it?",
+			"answer": "14",
+			"category": "Football"
+		}
+		,
+		{
+			"id": "500",
+			"question": "What girls name is also the name for a female donkey?",
+			"answer": "Jenny (or Jennet)",
+			"category": "Pot Luck"
+		}
+		,
+		{
+			"id": "501",
+			"question": "Which is the fastest growing plant?",
+			"answer": "Bamboo",
+			"category": "Nature"
+		}
+		,
+		{
+			"id": "502",
+			"question": "How many legs has a wood louse?",
+			"answer": "14 Legs",
+			"category": "Nature"
+		}
+		,
+		{
+			"id": "503",
+			"question": "A collective group of which animal is referred to as a 'crash'?",
+			"answer": "Rhinoceros",
+			"category": "Nature"
+		}
+		,
+		{
+			"id": "504",
+			"question": "What type of creature is a 'Sidewinder'?",
+			"answer": "A Snake",
+			"category": "Nature"
+		}
+		,
+		{
+			"id": "505",
+			"question": "What insect has the shortest lifespan with most living less than a day?",
+			"answer": "Mayfly",
+			"category": "Nature"
+		}
+		,
+		{
+			"id": "507",
+			"question": "Which Charles Dickens novel is set in London and Paris during the French Revolution?",
+			"answer": "A Tale of Two Cities",
+			"category": "Literature"
+		}
+		,
+		{
+			"id": "508",
+			"question": "In what year was 'A Game of Thrones' released, the first book in the popular George R. R. Martin fantasy series, 'A Song of Ice and Fire'?",
+			"answer": "1996",
+			"category": "Literature"
+		}
+		,
+		{
+			"id": "509",
+			"question": "Which of the Harry Potter books is longest by number of pages?",
+			"answer": "Harry Potter and the Order of the Phoenix (766 pages)",
+			"category": "Literature"
+		}
+		,
+		{
+			"id": "510",
+			"question": "Which Belfast author wrote the series of fantasy novels, 'The Chronicles of Narnia'?",
+			"answer": "Clive Staples Lewis",
+			"category": "Literature"
+		}
+		,
+		{
+			"id": "511",
+			"question": "Which Shakespearean play features the characters Bianca, Roderigo and Lodovico?",
+			"answer": "Othello",
+			"category": "Literature"
+		}
+		,
+		{
+			"id": "512",
+			"question": "What is the name of the Belgian detective who features in the Agatha Christie novels, 'Murder on the Orient Express' and 'Death on the Nile'?",
+			"answer": "Hercule Poirot",
+			"category": "Literature"
+		}
+		,
+		{
+			"id": "513",
+			"question": "What is the novel from the below description?",
+			"answer": "To Kill a Mockingbird",
+			"category": "Literature",
+			"quote": "A lawyer tries to defend a black man falsely accused of rape by a white woman in small-town of Alabama during the Great Depression."
+		}
+		,
+		{
+			"id": "514",
+			"question": "What is the novel from the below description?",
+			"answer": "The Da Vinci Code",
+			"category": "Literature",
+			"quote": "Symbologist Robert Langdon travels from Paris to London to discover the truth behind a mysterious and bizarre murder. Later, he learns about a religious mystery protected by a secret society."
+		}
+		,
+		{
+			"id": "515",
+			"question": "What is the novel from the below description?",
+			"answer": "The Great Gatsby",
+			"category": "Literature",
+			"quote": "Midwest native Nick Carraway arrives in 1922 New York in search of the American dream. Nick's next-door neighbor in West Egg is a mysterious man, who lives in a gigantic Gothic mansion and throws extravagant parties every Saturday night."
+		}
+		,
+		{
+			"id": "516",
+			"question": "Complete the title of this famous 1951 novel, 'The Catcher in the _____'",
+			"answer": "Rye",
+			"category": "Literature"
+		}
+		,
+		{
+			"id": "517",
+			"question": "What Mark Twain novel is a direct sequel to 'The Adventures of Tom Sawyer'?",
+			"answer": "Adventures of Huckleberry Finn",
+			"category": "Literature"
+		}
+		,
+		{
+			"id": "518",
+			"question": "What is Stephen King's best selling novel?",
+			"answer": "The Shining",
+			"category": "Literature"
+		}
+		,
+		{
+			"id": "519",
+			"question": "The Witcher fantasy series novels were initially released in what language?",
+			"answer": "Polish",
+			"category": "Literature"
+		}
+		,
+		{
+			"id": "521",
+			"question": "What is the name of this work of art and the artist who created it?",
+			"answer": "Pablo Picasso - Weeping Woman",
+			"category": "Art",
+			"picture": "art_521.jpg"
+		}
+		,
+		{
+			"id": "522",
+			"question": "What is the name of this work of art and the artist who created it?",
+			"answer": "Salvador Dalí - The Persistence of Memory",
+			"category": "Art",
+			"picture": "art_522.png"
+		}
+		,
+		{
+			"id": "523",
+			"question": "Robin Gunningham is assumed to be the identity of which famous artist?",
+			"answer": "Banksy",
+			"category": "Art"
+		}
+		,
+		{
+			"id": "524",
+			"question": "What is the name of this work of art and the artist who created it?",
+			"answer": "Vincent van Gogh - The Starry Night",
+			"category": "Art",
+			"picture": "art_524.jpg"
+		}
+		,
+		{
+			"id": "525",
+			"question": "What is the name of this work of art?",
+			"answer": "Whistler's Mother",
+			"category": "Art",
+			"picture": "art_525.jpg"
+		}
+		,
+		{
+			"id": "526",
+			"question": "What famous Norwegian painting was the inspiration of a popular horror movie series?",
+			"answer": "The Scream",
+			"category": "Art"
+		}
+		,
+		{
+			"id": "527",
+			"question": "A famous painting by Sandro Botticelli featured the birth of which Roman goddess?",
+			"answer": "Venus",
+			"category": "Art"
+		}
+		,
+		{
+			"id": "528",
+			"question": "In 1962, Andy Warhol produced a work of art containing 32 canvases, each depicting a different variety of what product?",
+			"answer": "Campbell's Soup Cans",
+			"category": "Art"
+		}
+		,
+		{
+			"id": "529",
+			"question": "Where can the Pietà by Michelangelo be found Today?",
+			"answer": "St. Peter's Basilica, Vatican City",
+			"category": "Art"
+		}
+		,
+		{
+			"id": "530",
+			"question": "What is the name of this famous painting by Grant Wood?",
+			"answer": "American Gothic",
+			"category": "Art",
+			"picture": "art_530.png"
+		}
+		,
+		{
+			"id": "531",
+			"question": "What is the name of this character and cartoon?",
+			"answer": "Mojo Jojo - Powerpuff Girls",
+			"category": "Cartoons & Anime",
+			"picture": "cartoon_531.png"
+		}
+		,
+		{
+			"id": "532",
+			"question": "What is the name of this cartoon character?",
+			"answer": "Dick Dastardly",
+			"category": "Cartoons & Anime",
+			"picture": "cartoon_532.png"
+		}
+		,
+		{
+			"id": "533",
+			"question": "What is the name of this character and cartoon?",
+			"answer": "Pebbles Flintstone - The Flintstones",
+			"category": "Cartoons & Anime",
+			"picture": "cartoon_533.png"
+		}
+		,
+		{
+			"id": "534",
+			"question": "What is the name of this character from the Simpsons?",
+			"answer": "Jasper Beardly",
+			"category": "Cartoons & Anime",
+			"picture": "cartoon_534.png"
+		}
+		,
+		{
+			"id": "535",
+			"question": "What is the name of these two supervillains from the Teenage Mutant Ninja Turtles?",
+			"answer": "Bebop and Rocksteady",
+			"category": "Cartoons & Anime",
+			"picture": "cartoon_535.png"
+		}
+		,
+		{
+			"id": "536",
+			"question": "What is the name of this cartoon?",
+			"answer": "Jackie Chan Adventures",
+			"category": "Cartoons & Anime",
+			"picture": "cartoon_536.gif"
+		}
+		,
+		{
+			"id": "537",
+			"question": "What is the name of this character and cartoon?",
+			"answer": "Mr. Poopybutthole - Rick and Morty",
+			"category": "Cartoons & Anime",
+			"picture": "cartoon_537.jpg"
+		}
+		,
+		{
+			"id": "538",
+			"question": "What Anime is this?",
+			"answer": "Attack on Titan",
+			"category": "Cartoons & Anime",
+			"picture": "cartoon_538.jpg"
+		}
+		,
+		{
+			"id": "539",
+			"question": "What Anime is this?",
+			"answer": "Death Note",
+			"category": "Cartoons & Anime",
+			"picture": "cartoon_539.jpg"
+		}
+		,
+		{
+			"id": "540",
+			"question": "What Anime is this?",
+			"answer": "Avatar: The Last Airbender",
+			"category": "Cartoons & Anime",
+			"picture": "cartoon_540.jpg"
+		}
+		,
+		{
+			"id": "541",
+			"question": "What Anime is this?",
+			"answer": "Digimon",
+			"category": "Cartoons & Anime",
+			"picture": "cartoon_541.jpg"
+		}
+		,
+		{
+			"id": "542",
+			"question": "What is the name of this character and cartoon?",
+			"answer": "Dr. Zoidberg - Futurama",
+			"category": "Cartoons & Anime",
+			"picture": "cartoon_542.jpg"
+		}
+		,
+		{
+			"id": "543",
+			"question": "Name 4 of the 6 founding members of the European Union!",
+			"answer": "Belgium, France, West Germany, Italy, Luxembourg, Netherlands",
+			"category": "Politics & Current Affairs"
+		}
+		,
+		{
+			"id": "544",
+			"question": "Which cartoon character beat Westlife to the Christmas number one spot in 2000?",
+			"answer": "Bob the Builder - Can We Fix It?",
+			"category": "00s Music"
+		}
+		,
+		{
+			"id": "545",
+			"question": "Which famous actor featured in the 2000 music video for Fatboy Slim's 'Weapon of Choice'?",
+			"answer": "Christopher Walken",
+			"category": "00s Music"
+		}
+		,
+		{
+			"id": "546",
+			"question": "What music group is this?",
+			"answer": "NSYNC",
+			"category": "90s Music",
+			"picture" : "music_546.jpg"
+		}
+		,
+		{
+			"id": "547",
+			"question": "What is the music artist and song from this music video?",
+			"answer": "Lady Gaga - Bad Romance",
+			"category": "00s Music",
+			"picture" : "music_547.jpg"
+		}
+		,
+		{
+			"id": "548",
+			"question": "What artist/song are these lyrics from?",
+			"answer": "Eminem - The Real Slim Shady",
+			"category": "00s Music",
+			"quote" : "My bum is on your lips, my bum is on your lips</br>And if I'm lucky, you might just give it a little kiss</br>And that's the message that we deliver to little kids</br>And expect them not to know what a woman's clitoris is"
+		}
+		,
+		{
+			"id": "549",
+			"question": "What artist/song are these lyrics from?",
+			"answer": "Katy Perry - Hot N Cold",
+			"category": "00s Music",
+			"quote" : "You're wrong when it's right</br>It's black and it's white</br>We fight, we break up<br>We kiss, we make up"
+		}
+		,
+		{
+			"id": "550",
+			"question": "What is the music artist and song from this music video?",
+			"answer": "OutKast - Hey Ya!",
+			"category": "00s Music",
+			"picture" : "music_550.jpg"
+		}
+		,
+		{
+			"id": "551",
+			"question": "What artist/song are these lyrics from?",
+			"answer": "Owl City - Fireflies",
+			"category": "00s Music",
+			"quote" : "I'd like to make myself believe that planet earth turns slowly</br>It's hard to say that I'd rather stay awake when I'm asleep</br>'Cause everything is never as it seems"
+		}
+		,
+		{
+			"id": "552",
+			"question": "What is the music artist and song from this music video?",
+			"answer": "Gorillaz - Feel Good Inc.",
+			"category": "00s Music",
+			"picture" : "music_552.jpg"
+		}
+		,
+		{
+			"id": "553",
+			"question": "Which girl band featured Nadine Coyle and Kimberly Walsh as members?",
+			"answer": "Girls Aloud",
+			"category": "00s Music"
+		}
+		,
+		{
+			"id": "554",
+			"question": "What artist/song are these lyrics from?",
+			"answer": "Florence + The Machine - Dog Days Are Over",
+			"category": "00s Music",
+			"quote" : "She hid around corners and she hid under beds</br>She killed it with kisses and from it she fled</br>With every bubble she sank with a drink</br>And washed it away down the kitchen sink"
+		}
+		,
+		{
+			"id": "555",
+			"question": "What artist/song are these lyrics from?",
+			"answer": "Kings Of Leon - Use Somebody",
+			"category": "00s Music",
+			"quote" : "I've been roaming around</br>Always looking down at all I see</br>Painted faces, fill the places I can't reach"
+		}
+		,
+		{
+			"id": "556",
+			"question": "What movie is this scene from?",
+			"answer": "Ferris Bueller's Day Off",
+			"category": "Comedy Movies",
+			"picture" : "movie_556.jpg"
+		}
+		,
+		{
+			"id": "557",
+			"question": "What comedy movie is this line from?",
+			"answer": "The Blues Brothers",
+			"category": "Comedy Movies",
+			"quote" : "There are 106 miles to Chicago, we have a full tank of gas, half a pack of cigarettes, it's dark, and we're wearing sunglasses"
+		}
+		,
+		{
+			"id": "558",
+			"question": "What comedy movie is this dialog from?",
+			"answer": "Walk Hard: The Dewey Cox Story",
+			"category": "Comedy Movies",
+			"quote" : "Dewey: What are y'all doing in here?<br></br>Sam: It's called cocaine, and you don't want no part of this shit!<br></br>Dewey: Cocaine? What's it do?<br></br>Sam: It turns all your bad feelings into good feelings. It's a nightmare!<br></br>Dewey: I'm thinking maybe I'd like to try me some of that cocaine."
+		}
+		,
+		{
+			"id": "559",
+			"question": "What action movie is this scene from?",
+			"answer": "The Terminator",
+			"category": "Action Movies",
+			"picture" : "movie_559.jpg"
+		}
+		,
+		{
+			"id": "560",
+			"question": "What artist/song are these lyrics from?",
+			"answer": "The Cranberries - Zombie",
+			"category": "90s Music",
+			"quote" : "With their tanks, and their bombs</br>And their bombs, and their guns</br>In your head, in your head they are crying"
+		}
+		,
+		{
+			"id": "561",
+			"question": "Which Roman God was given twelve labors by King Eurystheus of Tiryns",
+			"answer": "Hercules",
+			"category": "Mythology"
+		}
+		,
+		{
+			"id": "562",
+			"question": "In Greek mythology, what name was given to this hound of Hades?",
+			"answer": "Cerberus",
+			"category": "Mythology",
+			"picture": "myth_562.jpg"
+		}
+		,
+		{
+			"id": "563",
+			"question": "What did Prometheus steal from Mount Olympus and give to humankind?",
+			"answer": "Fire",
+			"category": "Mythology"
+		}
+		,
+		{
+			"id": "564",
+			"question": "Who is the Roman God of the Sea which is also the name of a planet in our Solar System?",
+			"answer": "Neptune",
+			"category": "Mythology"
+		}
+		,
+		{
+			"id": "565",
+			"question": "In Greek mythology, why was Achilles, who was otherwise invulnerable to harm, vulnerable to injury of his heel? Hence the term 'Achilles' Heel'.",
+			"answer": "When he was dipped in the River Styx, his mother held him by the heel",
+			"category": "Mythology"
+		}
+		,
+		{
+			"id": "566",
+			"question": "In Norse mythology, mighty warriors hope to go where after death?",
+			"answer": "Valhalla",
+			"category": "Mythology"
+		}
+		,
+		{
+			"id": "567",
+			"question": "According to Norse mythology, what does Odin use to form the first two humans?",
+			"answer": "Logs/Tree Trunks",
+			"category": "Mythology"
+		}
+		,
+		{
+			"id": "568",
+			"question": "According to Norse mythology, what series of events led to the death of a number of Gods and the submersion of the world in water?",
+			"answer": "Ragnarök",
+			"category": "Mythology"
+		}
+		,
+		{
+			"id": "469",
+			"question": "According to Norse mythology, the goddess Frigg blessed which plant and vowed kiss anyone who passed beneath it?",
+			"answer": "Mistletoe",
+			"category": "Mythology"
+		}
+		,
+		{
+			"id": "570",
+			"question": "Osiris, Isis and Horus were gods from which ancient culture?",
+			"answer": "Egyptian",
+			"category": "Mythology"
+		}
+		,
+		{
+			"id": "571",
+			"question": "Which Greek poet was the author of Iliad and the Odyssey?",
+			"answer": "Homer",
+			"category": "Mythology"
+		}
+		,
+		{
+			"id": "572",
+			"question": "Who is this from Greek mythology?",
+			"answer": "Medusa/Gorgo",
+			"category": "Mythology",
+			"picture": "myth_572.jpg"
+		}
+		,
+		{
+			"id": "573",
+			"question": "The below quote is from which famous person?",
+			"answer": "Charlie Sheen",
+			"category": "Famous People",
+			"quote": "I'm different. I have a different constitution, I have a different brain, I have a different heart. I got tiger blood, man. Dying's for fools, dying's for amateurs."
+		}
+		,
+		{
+			"id": "574",
+			"question": "The below quote is from which famous person?",
+			"answer": "Conor Mc Gregor",
+			"category": "Famous People",
+			"quote": "There are two things I really like to do and that's whoop ass and look good. I'm doing one of them right now and on Saturday night, I'm doing the other."
+		}
+		,
+		{
+			"id": "575",
+			"question": "The below quote is from which famous person?",
+			"answer": "Britney Spears",
+			"category": "Famous People",
+			"quote": "I’ve never really wanted to go to Japan. Simply because I don’t like eating fish. And I know that’s very popular out there in Africa."
+		}
+		,
+		{
+			"id": "576",
+			"question": "The below quote is from which famous person?",
+			"answer": "Arnold Schwarzenegger",
+			"category": "Famous People",
+			"quote": "No, I think gay marriage is something that should be between a man and a woman."
+		}
+		,
+		{
+			"id": "577",
+			"question": "The below quote is from which famous person?",
+			"answer": "David Beckham",
+			"category": "Famous People",
+			"quote": "We're definitely going to get Brooklyn christened, but we don't know into which religion."
+		}
+		,
+		{
+			"id": "578",
+			"question": "Talulah Riley is an English actor who portrayed Angela in the HBO series 'Westworld'. She got married in 2010, divorced in 2012, remarried in 2013 and divorced again in 2016. Both marriages were to the same person. Who was she married to?",
+			"answer": "Elon Musk",
+			"category": "Famous People",
+			"picture": "famous_578.jpg"
+		}
+		,
+		{
+			"id": "579",
+			"question": "What do all these famous people have in common?",
+			"answer": "They've all been in prison",
+			"category": "Famous People",
+			"quote": "Mark Wahlberg, Lil' Kim, Troy Deeney, Mike Tyson, Martha Stewart, Paris Hilton"
+		}
+		,
+		{
+			"id": "579",
+			"question": "Which famous singer/actress is Josh Brolin's stepmother?",
+			"answer": "Barbra Streisand",
+			"category": "Famous People",
+			"picture": "famous_580.jpg"
+		}
+		,
+		{
+			"id": "581",
+			"question": "Who is this celebrity couple?",
+			"answer": "Kirsten Dunst & Jesse Plemons",
+			"category": "Famous People",
+			"picture": "famous_581.jpg"
+		}
+		,
+		{
+			"id": "582",
+			"question": "Who is this celebrity couple?",
+			"answer": "Sophie Turner & Joe Jonas",
+			"category": "Famous People",
+			"picture": "famous_582.jpg"
+		}
+		,
+		{
+			"id": "583",
+			"question": "Billy Bob Thornton has been married 6 times. Who was his famous wife from 2000-2003?",
+			"answer": "Angelina Jolie",
+			"category": "Famous People",
+			"picture": "famous_583.jpg"
+		}
+		,
+		{
+			"id": "584",
+			"question": "What do all of these famous people have in common?",
+			"answer": "They're all Colour Blind",
+			"category": "Famous People",
+			"quote": "Bill Clinton, Mark Zuckerberg, Keanu Reeves, Prince William, Christopher Nolan, Meat Loaf"
+		}
+		,
+		{
+			"id": "585",
+			"question": "What do all of these famous people have in common?",
+			"answer": "They were all shot and survived",
+			"category": "Famous People",
+			"quote": "50 Cent, Pope John Paul II, Lil Wayne, Bob Marley, Ronald Reagan"
+		}
+		,
+		{
+			"id": "587",
+			"question": "Who are these brothers?",
+			"answer": "Paul & Jake Logan",
+			"category": "Famous People",
+			"picture": "famous_587.jpg"
+		}
+		,
+		{
+			"id": "588",
+			"question": "Who are these sisters?",
+			"answer": "Rooney & Kate Mara",
+			"category": "Famous People",
+			"picture": "famous_588.jpg"
+		}
+		,
+		{
+			"id": "589",
+			"question": "What is this famous landmark and city?",
+			"answer": "Saint Basil's Cathedral, Moscow",
+			"category": "Famous Landmarks",
+			"picture": "landmark_589.png"
+		}
+		,
+		{
+			"id": "590",
+			"question": "What is this famous landmark and city?",
+			"answer": "Trevi Fountain, Rome",
+			"category": "Famous Landmarks",
+			"picture": "landmark_590.jpg"
+		}
+		,
+		{
+			"id": "591",
+			"question": "What is this famous landmark and city?",
+			"answer": "Christ the Redeemer, Rio de Janeiro",
+			"category": "Famous Landmarks",
+			"picture": "landmark_591.jpg"
+		}
+		,
+		{
+			"id": "592",
+			"question": "Name 3 of the 4 US presidents who are depicted in Mount Rushmore?",
+			"answer": "George Washington, Thomas Jefferson, Theodore Roosevelt and Abraham Lincoln",
+			"category": "Famous Landmarks",
+			"picture": "landmark_592.jpg"
+		}
+		,
+		{
+			"id": "593",
+			"question": "Where is this?",
+			"answer": "Easter Island (moai statues)",
+			"category": "Famous Landmarks",
+			"picture": "landmark_593.jpg"
+		}
+		,
+		{
+			"id": "594",
+			"question": "What is this famous landmark and city?",
+			"answer": "Brandenburg Gate, Berlin",
+			"category": "Famous Landmarks",
+			"picture": "landmark_594.jpg"
+		}
+		,
+		{
+			"id": "595",
+			"question": "What is this famous landmark and city?",
+			"answer": "Tower Bridge - London",
+			"category": "Famous Landmarks",
+			"picture": "landmark_595.jpg"
+		}
+		,
+		{
+			"id": "596",
+			"question": "What is this famous landmark and city?",
+			"answer": "Lotus Temple, Delhi",
+			"category": "Famous Landmarks",
+			"picture": "landmark_596.jpg"
+		}
+		,
+		{
+			"id": "597",
+			"question": "Where is this?",
+			"answer": "Vietnam Golden Bridge, Da Nang",
+			"category": "Famous Landmarks",
+			"picture": "landmark_597.jpg"
+		}
+		,
+		{
+			"id": "598",
+			"question": "What is this famous landmark and city?",
+			"answer": "Notre-Dame Cathedral, Paris",
+			"category": "Famous Landmarks",
+			"picture": "landmark_598.jpg"
+		}
+		,
+		{
+			"id": "599",
+			"question": "What country is Beirut the capital of?",
+			"answer": "Lebanon",
+			"category": "World Geography"
+		}
+		,
+		{
+			"id": "599",
+			"question": "What is the main river which flows through Paris?",
+			"answer": "The Seine",
+			"category": "World Geography"
+		}
+		,
+		{
+			"id": "600",
+			"question": "What African country has the largest population?",
+			"answer": "Nigeria (190 million)",
+			"category": "World Geography"
+		}
+		,
+		{
+			"id": "601",
+			"question": "What famous river divides Budapest into 'Buda' and 'Pest'?",
+			"answer": "Danube",
+			"category": "World Geography"
+		}
+		,
+		{
+			"id": "602",
+			"question": "What is the largest river in Europe which covers 3,530 kilometers?",
+			"answer": "Volga River (Russia)",
+			"category": "World Geography"
+		}
+		,
+		{
+			"id": "603",
+			"question": "What did the British Ceylon change its name to in 1972?",
+			"answer": "Sri Lanka",
+			"category": "World Geography"
+		}
+		,
+		{
+			"id": "604",
+			"question": "How many states are there in Australia?",
+			"answer": "Six – New South Wales, Victoria, Queensland, Western Australia, Tasmania, South Australia",
+			"category": "World Geography"
+		}
+		,
+		{
+			"id": "605",
+			"question": "What body of water separates Africa and Europe?",
+			"answer": "Strait of Gibraltar",
+			"category": "World Geography"
+		}
+		,
+		{
+			"id": "606",
+			"question": "What is the only major city located on two continents?",
+			"answer": "Istanbul (Europe and Asia) ",
+			"category": "World Geography"
+		}
+		,
+		{
+			"id": "607",
+			"question": "What is the oldest active volcano on Earth?",
+			"answer": "Mount Etna, Sicily",
+			"category": "World Geography"
+		}
+		,
+		{
+			"id": "608",
+			"question": "What does the 'DC' stand for in Washington DC?",
+			"answer": "District of Columbia",
+			"category": "World Geography"
+		}
+		,
+		{
+			"id": "609",
+			"question": "Greenland is an autonomous territory within which country?",
+			"answer": "Denmark",
+			"category": "World Geography"
+		}
+		,
+		{
+			"id": "610",
+			"question": "The Table Mountain overlooks which city?",
+			"answer": "Cape Town",
+			"category": "World Geography"
+		}
+		,
+		{
+			"id": "611",
+			"question": "Who is this?",
+			"answer": "Jacinda Ardern - Prime Minister of New Zealand",
+			"category": "Politics & Current Affairs",
+			"picture": "politics_611.jpg"
+		}
+		,
+		{
+			"id": "612",
+			"question": "Which manufacturer logo is this?",
+			"answer": "John Deere",
+			"category": "Cars & Automobiles",
+			"picture": "car_612.jpg"
+		}
+		, 
+		{
+			"id": "613",
+			"question": "Which 1977 movie soundtrack included a number of songs from the Bee Gees including 'Stayin Alive' and 'How Deep Is Your Love'",
+			"answer": "Saturday Night Fever",
+			"category": "70s Music"
+		}
+		, 
+		{
+			"id": "614",
+			"question": "Which logo is this?",
+			"answer": "Beats",
+			"category": "Brands & Logos",
+			"picture": "logo_614.png"
+		}
+		, 
+		{
+			"id": "615",
+			"question": "Which logo is this?",
+			"answer": "Rolex",
+			"category": "Brands & Logos",
+			"picture": "logo_615.png"
+		}
+		, 
+		{
+			"id": "616",
+			"question": "Which logo is this?",
+			"answer": "Revolut",
+			"category": "Brands & Logos",
+			"picture": "logo_616.png"
+		}
+		, 
+		{
+			"id": "617",
+			"question": "Which logo is this?",
+			"answer": "Dunkin' Donuts",
+			"category": "Brands & Logos",
+			"picture": "logo_617.jpg"
+		}
+		, 
+		{
+			"id": "618",
+			"question": "Which logo is this?",
+			"answer": "Spar",
+			"category": "Brands & Logos",
+			"picture": "logo_618.png"
+		}
+		, 
+		{
+			"id": "619",
+			"question": "Which logo is this?",
+			"answer": "Steam",
+			"category": "Brands & Logos",
+			"picture": "logo_619.png"
+		}
+		, 
+		{
+			"id": "620",
+			"question": "Which logo is this?",
+			"answer": "Reddit",
+			"category": "Brands & Logos",
+			"picture": "logo_620.jpg"
+		}
+		,
+		{
+			"id": "621",
+			"question": "River Bottom, pictured below played Chris Chambers in 'Stand By Me'. Which famous actor is his younger brother?",
+			"answer": "Joaquin Phoenix",
+			"category": "Famous People",
+			"picture": "famous_621.jpg"
+		}
+		,
+		{
+			"id": "622",
+			"question": "In which city is the largest hockey arena in the world?",
+			"answer": "Montreal - The Bell Centre",
+			"category": "American Sport"
+		}
+		,
+		{
+			"id": "623",
+			"question": "Hockey is played on an ice surface known as what?",
+			"answer": "Rink",
+			"category": "American Sport"
+		}
+		,
+		{
+			"id": "624",
+			"question": "What material is an ice hockey puck made from?",
+			"answer": "Vulcanized Rubber",
+			"category": "American Sport"
+		}
+		,
+		{
+			"id": "625",
+			"question": "What was the name of the Irish racehorse which was stolen from Aga Khan's stud farm in 1983?",
+			"answer": "Shergar",
+			"category": "Pot Luck"
+		}
+		,
+		{
+			"id": "626",
+			"question": "Who won the 2020 PDC World Darts Championship?",
+			"answer": "Peter Wright",
+			"category": "Sport"
+		}
+		,
+		{
+			"id": "627",
+			"question": "what movie starred all of the below actors?",
+			"answer": "Intermission",
+			"category": "Movies",
+			"quote": "Colin Farrell, Deirdre O'Kane, Cillian Murphy, Colm Meaney"
+		}
+		,
+		{
+			"id": "628",
+			"question": "Who won the 2020 PDC World Darts Championship?",
+			"answer": "Peter Wright",
+			"category": "Sport"
+		}
+		,
+		{
+			"id": "629",
+			"question": "Of what is 'Phonology' the study?",
+			"answer": "Sounds",
+			"category":  "Science"
+		}
+		,
+		{
+			"id": "630",
+			"question": "Which of the Spice Girls left the group in 1998?",
+			"answer": "Geri Halliwell (Ginger Spice)",
+			"category": "90s Music"
+		}
+		,
+		{
+			"id": "631",
+			"question": "Who is the CEO and President of Amazon, currently the richest man in the world?",
+			"answer": "Jeff Bezos",
+			"category": "Software & Technology"
+		}
+		,
+		{
+			"id": "632",
+			"question": "What year did the first Apple iPhone launch?",
+			"answer": "2007",
+			"category": "Software & Technology"
+		}
+		,
+		{
+			"id": "633",
+			"question": "Created in 1990, what was the name of the first internet search engine?",
+			"answer": "Archie",
+			"category": "Software & Technology"
+		}
+		,
+		{
+			"id": "634",
+			"question": "What does LG stand for in LG Electronics?",
+			"answer": "Lucky-Goldstar",
+			"category": "Software & Technology"
+		}
+		,
+		{
+			"id": "635",
+			"question": "What did Tim Berners-Lee invent in 1989?",
+			"answer": "World Wide Web",
+			"category": "Software & Technology"
+		}
+		,
+		{
+			"id": "636",
+			"question": "Originally Amazon only sold which product when it was founded in 1994?",
+			"answer": "Books",
+			"category": "Software & Technology"
+		}
+		,
+		{
+			"id": "637",
+			"question": "What does IBM stand for?",
+			"answer": "International Business Machines (Corporation)",
+			"category": "Software & Technology"
+		}
+		,
+		{
+			"id": "638",
+			"question": "Firefox is a web browser owned by which company?",
+			"answer": "Mozilla Foundation/ Mozilla Corporation",
+			"category": "Software & Technology"
+		}
+		,
+		{
+			"id": "639",
+			"question": "Which country has the internet domain extension '.es'?",
+			"answer": "Spain",
+			"category": "Software & Technology"
+		}
+		,
+		{
+			"id": "640",
+			"question": "Which type of technology was named after Danish-Norwegian king Harald Blátönn?",
+			"answer": "Bluetooth",
+			"category": "Software & Technology"
+		}
+		,
+		{
+			"id": "641",
+			"question": "Chinese smartphone manufacturer, OnePlus released which model after the OnePlus 3T?",
+			"answer": "OnePlus 5",
+			"category": "Software & Technology"
+		}
+		,
+		{
+			"id": "642",
+			"question": "What is the song and artist from this music video?",
+			"answer": "Ed Sheeran - Sing!",
+			"category": "Modern Music",
+			"picture": "music_642.png"
+		}
+		,
+		{
+			"id": "643",
+			"question": "What girl's name features in the title of both songs from Ed Sheeran and Hozier?",
+			"answer": "Nina",
+			"category": "Modern Music"
+		}
+		,
+		{
+			"id": "644",
+			"question": "What is the song and artist from this music video?",
+			"answer": "Childish Gambino - This Is America",
+			"category": "Modern Music",
+			"picture": "music_644.png"
+		}
+		,
+		{
+			"id": "645",
+			"question": "The below quote is from which famous person?",
+			"answer": "Azealia Banks",
+			"category": "Famous People",
+			"quote": "You lot are a bunch of prideful inbred leprechauns... The rest of the world’s white folk don’t want to associate with you lot at all and it’s because you are barbarians. I’m happiest knowing the Irish are quarantined on an isle so they can continue to inbreed and keep their defective genes away from humanity"
+		}
+		,
+		{
+			"id": "646",
+			"question": "Who is this music artist?",
+			"answer": "Lewis Capaldi",
+			"category": "Modern Music",
+			"picture": "music_646.jpg"
+		}
+		,
+		{
+			"id": "647",
+			"question": "What is the song and artist are these lyrics from?",
+			"answer": "Adele - Rolling in the Deep",
+			"category": "Modern Music",
+			"quote": "See how I leave with every piece of you</br>Don't underestimate the things that I will do</br>There's a fire starting in my heart</br>Reaching a fever pitch and its bringing me out the dark"
+		}
+		,
+		{
+			"id": "648",
+			"question": "What is the song and artist are these lyrics from?",
+			"answer": "The Weeknd - Can't Feel My Face",
+			"category": "Modern Music",
+			"quote": "And I know she'll be the death of me, at least we'll both be numb</br>And she'll always get the best of me, the worst is yet to come</br>But at least we'll both be beautiful and stay forever young"
+		}
+		,
+		{
+			"id": "649",
+			"question": "What is the song and artist are these lyrics from?",
+			"answer": "Bastille - Pompeii",
+			"category": "Modern Music",
+			"quote": "And the walls kept tumbling down</br>In the city that we love</br>Grey clouds roll over the hills</br>Bringing darkness from above"
+		}
+		,
+		{
+			"id": "650",
+			"question": "What is the song and artist from this music video?",
+			"answer": "Gotye - Somebody That I Used To Know",
+			"category": "Modern Music",
+			"picture": "music_650.jpg"
+		}
+		,
+		{
+			"id": "651",
+			"question": "What movie is this scene from?",
+			"answer": "Schindler's List",
+			"category": "Movies",
+			"picture": "movie_651.jpg"
+		}
+		,
+		{
+			"id": "652",
+			"question": "What movie is this scene from?",
+			"answer": "Ex Machina",
+			"category": "Movies",
+			"picture": "movie_652.jpg"
+		}
+		,
+		{
+			"id": "653",
+			"question": "What comdey movie is this scene from?",
+			"answer": "Old School",
+			"category": "Comedy Movies",
+			"picture": "movie_653.gif"
+		}
+		,
+		{
+			"id": "654",
+			"question": "What comdey movie is this scene from?",
+			"answer": "Bridesmaids",
+			"category": "Comedy Movies",
+			"picture": "movie_654.gif"
+		}
+		,
+		{
+			"id": "655",
+			"question": "'The Comedy Rule' is an upcoming miniseries based on the book 'A Higher Loyalty' by former FBI director James Comey who served US president Donald Trump. Which famous actor is cast to play Donald Trump in the Showtime series?",
+			"answer": "Brendan Gleeson",
+			"category": "Pot Luck"
+		}
+		,
+		{
+			"id": "656",
+			"question": "What two whole, positive numbers that have a one-digit answer when multiplied and a two-digit answer when added?",
+			"answer": "1 and 9",
+			"category": "Maths"
+		}
+		,
+		{
+			"id": "657",
+			"question": "What is the number of the parking space covered by the car?",
+			"answer": "87 (numbers are upside down)",
+			"category": "Maths",
+			"picture": "math_657.png"
+		}
+		,
+		{
+			"id": "658",
+			"question": "Solve the equation!",
+			"answer": "9",
+			"category": "Maths",
+			"picture": "math_658.png"
+		}
+		,
+		{
+			"id": "659",
+			"question": "Which 90s girl group consisted of members: T-Boyz, Left-Eye and Chilli?",
+			"answer": "TLC",
+			"category": "90s Music"
+		}
+		,
+		{
+			"id": "660",
+			"question": "What multinational retail corporation is the largest employer in the world?",
+			"answer": "Walmart (2.3 million employees)",
+			"category": "Pot Luck"
+		}
+		,
+		{
+			"id": "661",
+			"question": "Complete the title of this movie: 'Harold & Kumar Go to _____ ______'",
+			"answer": "White Castle",
+			"category": "Comedy Movies"
+		}
+		,
+		{
+			"id": "662",
+			"question": "What comedy movie is this?",
+			"answer": "Hot Fuzz",
+			"category": "Comedy Movies",
+			"picture": "movie_662.gif"
+		}
+		,
+		{
+			"id": "663",
+			"question": "What movie is this?",
+			"answer": "One Flew Over the Cuckoo's Nest",
+			"category": "Movies",
+			"picture": "movie_663.jpg"
+		}
+		,
+		{
+			"id": "664",
+			"question": "What cartoon is this?",
+			"answer": "Adventure Time",
+			"category": "Cartoons & Anime",
+			"picture": "cartoon_664.jpg"
+		}
+		,
+		{
+			"id": "665",
+			"question": "What animated movie is this?",
+			"answer": "Brave",
+			"category": "Animated Movies",
+			"picture": "animated_665.gif"
+		}
+		,
+		{
+			"id": "666",
+			"question": "What is the name of this this character and the voice actor from the Pixar movie 'Cars'?",
+			"answer": "Lightning McQueen - Owen Wilson",
+			"category": "Animated Movies",
+			"picture": "animated_666.jpg"
+		}
+		,
+		{
+			"id": "667",
+			"question": "What was the name of the Garda whistleblower who was made subject to a smear campaign orchestrated by senior Garda officials in 2014?",
+			"answer": "Maurice McCabe",
+			"category": "Politics & Current Affairs"
+		}
+		,
+		{
+			"id": "668",
+			"question": "The ages of a father and son add up to 66. The father's age is the son's age reversed. How old are they if the son was born when the father was 18?",
+			"answer": "42 and 24",
+			"category": "Maths"
+		}
+		,
+		{
+			"id": "669",
+			"question": "There is a certain club which is for men only. There are 600 men in the club and 5% of these men wear one earring. Of the other 95% membership, half wear two earrings and the other half wear none. How many earrings are being worn in this club?",
+			"answer": "600",
+			"category": "Maths"
+		}
+		,
+		{
+			"id": "670",
+			"question": "Iodine is used to test for the presence of what substance in potatoes?",
+			"answer": "Starch",
+			"category": "Science"
+		}
+		,
+		{
+			"id": "671",
+			"question": "What was the name of the supercontinent that is believed to have existed during the late Triassic time?",
+			"answer": "Pangaea",
+			"category": "Pot Luck"
+		}
+		,
+		{
+			"id": "672",
+			"question": "What type of gas, known as laughing gas is commonly used by dentists and medical professionals for sedation and pain relief?",
+			"answer": "Nitrous oxide",
+			"category": "Science"
+		}
+		,
+		{
+			"id": "673",
+			"question": "In which country was The Battle of Waterloo which marked the final defeat of Napoleon Bonaparte?",
+			"answer": "Belgium",
+			"category": "Science"
+		}
+		,
+		{
+			"id": "674",
+			"question": "What artist/song are these lyrics from?",
+			"answer": "Jefferson Airplane - White Rabbit",
+			"category": "50s & 60s Music",
+			"quote": "When the men on the chessboard get up and tell you where to go</br>And you've just had some kind of mushroom, and your mind is moving low"
+		}
+		,
+		{
+			"id": "675",
+			"question": "What is this TV show and the name of this character?",
+			"answer": "The IT Crowd - Richmond Avenal",
+			"category": "Sitcoms",
+			"picture": "tv_675.jpg"
+		}
+		,
+		{
+			"id": "676",
+			"question": "In tennis, what piece of fruit is found at the top of the men's Wimbledon trophy?",
+			"answer": "Pineapple",
+			"category": "Sport"
+		}
+		,
+		{
+			"id": "676",
+			"question": "Who won the FIFA Women's World Cup in 2019?",
+			"answer": "USA",
+			"category": "Sport"
+		}
+		,
+		{
+			"id": "677",
+			"question": "Lewis Hamilton has won 5 of the last 6 Formula One World Drivers' Championships. Which other Mercedes driver won it in 2016?",
+			"answer": "Nico Rosberg",
+			"category": "Sport"
+		}
+		,
+		{
+			"id": "678",
+			"question": "What 70's British sitcom is this?",
+			"answer": "Are You Being Served?",
+			"category": "Sitcoms",
+			"picture": "tv_678.jpg"
+		}
+		,
+		{
+			"id": "679",
+			"question": "What 70's British sitcom and character is this?",
+			"answer": "Some Mothers Do 'Ave 'Em - Frank Spencer",
+			"category": "Sitcoms",
+			"picture": "tv_679.gif"
+		}
+		,
+		{
+			"id": "680",
+			"question": "Who is this former American football player?",
+			"answer": "Peyton Manning",
+			"category": "American Sport",
+			"picture": "american_680.jpg"
+		}
+		,
+		{
+			"id": "681",
+			"question": "The Aslan, Elantra and Tucson are models by which car manufacturer?",
+			"answer": "Hyundai",
+			"category": "Cars & Automobiles"
+		}
+		,
+		{
+			"id": "682",
+			"question": "Which multinational electronics company produce batteries for Tesla?",
+			"answer": "Panasonic",
+			"category": "Cars & Automobiles"
+		}
+		,
+		{
+			"id": "683",
+			"question": "The Twingo, Scenic and Espace are models by which car manufacturer?",
+			"answer": "Renault",
+			"category": "Cars & Automobiles"
+		}
+		,
+		{
+			"id": "684",
+			"question": "The Picanto, Rio and Sorento are models by which car manufacturer?",
+			"answer": "Kia",
+			"category": "Cars & Automobiles"
+		}
+		,
+		{
+			"id": "685",
+			"question": "Which European car manufacturer has it's headquaters in Gothenburg, Sweden?",
+			"answer": "The Volvo Group",
+			"category": "Cars & Automobiles"
+		}
+		,
+		{
+			"id": "686",
+			"question": "Kia Motors Corporation is South Korea's second-largest automobile manufacturer, which is the first?",
+			"answer": "Hyundai (as of 2013, Kia is 34% owned by Hyundai)",
+			"category": "Cars & Automobiles"
+		}
+		,
+		{
+			"id": "687",
+			"question": "Opel cars are sold in the UK under what manufacturer name?",
+			"answer": "Vauxhall",
+			"category": "Cars & Automobiles"
+		}
+		,
+		{
+			"id": "688",
+			"question": "Lexus is the luxury vehicle division of which Japanese car manufacturer?",
+			"answer": "Toyota",
+			"category": "Cars & Automobiles"
+		}
+		,
+		{
+			"id": "689",
+			"question": "What car logo is this?",
+			"answer": "Lexus",
+			"category": "Cars & Automobiles",
+			"picture": "car_689.jpg"
+		}
+		,
+		{
+			"id": "690",
+			"question": "What car logo is this?",
+			"answer": "Bentley",
+			"category": "Cars & Automobiles",
+			"picture": "car_690.jpg"
+		}
+		,
+		{
+			"id": "691",
+			"question": "Which actor has played the role of James Bond in more movies than any other actor?",
+			"answer": "Roger Moore (7)",
+			"category": "Pot Luck"
+		}
+		,
+		{
+			"id": "692",
+			"question": "Who was the last singer to win the Eurovision for Ireland?",
+			"answer": " Eimear Quinn (1996)",
+			"category": "Pot Luck"
+		}
+		,
+		{
+			"id": "693",
+			"question": "What was New York called when established in 1625?",
+			"answer": "New Amsterdam",
+			"category": "Pot Luck"
+		}
+		,
+		{
+			"id": "694",
+			"question": "What is the biggest US state by area?",
+			"answer": "Alaska",
+			"category": "Pot Luck"
+		}
+		,
+		{
+			"id": "695",
+			"question": "What famous novel was written by Dubliner, Bram Stoker in 1897?",
+			"answer": "Dracula",
+			"category": "Pot Luck"
+		}
+		,
+		{
+			"id": "696",
+			"question": "Whos famous wedding took place at Luttrellstown Castle in Clonsilla, Dublin on July 4th 1999?",
+			"answer": "David and Victoria Beckham",
+			"category": "Pot Luck"
+		}
+		,
+		{
+			"id": "670",
+			"question": "What is the song and artist from this music video?",
+			"answer": "The Weeknd - Blinding Lights",
+			"category": "Modern Music",
+			"picture": "music_670.gif"
+		}
+		,
+		{
+			"id": "671",
+			"question": "What movie is this scene from?",
+			"answer": "Trainspotting",
+			"category": "Movies",
+			"picture": "movie_671.jpg"
+		}
+		,
+		{
+			"id": "672",
+			"question": "At the 2010 Oscars, James Cameron missed out on winning 'Best Director' for his movie 'Avatar'. Instead his ex-wife, Kathryn Bigelow became the first woman to win 'Best Director'. What movie did she direct?",
+			"answer": "The Hurt Locker",
+			"category": "Movies"
+		}
+		,
+		{
+			"id": "673",
+			"question": "English Brothers, Sam and Dan Houser founded which famous videogame publisher in 1998?",
+			"answer": "Rockstar Games",
+			"category": "Videogames"
+		}
+		,
+		{
+			"id": "674",
+			"question": "Which famous actor is set to appear in the upcoming videogame 'Cyberpunk 2077'?",
+			"answer": "Keanu Reeves",
+			"category": "Videogames"
+		}
+		,
+		{
+			"id": "675",
+			"question": "What is the name of this videogame character?",
+			"answer": "Yoshi",
+			"category": "Videogames",
+			"picture": "videogame_675.png"
+		}
+		,
+		{
+			"id": "676",
+			"question": "What is the name of the main character in the Zelda series?",
+			"answer": "Link",
+			"category": "Videogames",
+			"picture": "videogame_676.gif"
+		}
+		,
+		{
+			"id": "677",
+			"question": "What logo is this?",
+			"answer": "Bacardi",
+			"category": "Brands & Logos",
+			"picture": "logo_677.gif"
+		}
+		,
+		{
+			"id": "678",
+			"question": "What logo is this?",
+			"answer": "Orchard Thieves",
+			"category": "Brands & Logos",
+			"picture": "logo_678.jpg"
+		}
+		,
+		{
+			"id": "679",
+			"question": "What logo is this?",
+			"answer": "Texaco",
+			"category": "Brands & Logos",
+			"picture": "logo_679.png"
+		}
+		,
+		{
+			"id": "680",
+			"question": "What logo is this?",
+			"answer": "TikTok",
+			"category": "Brands & Logos",
+			"picture": "logo_680.jpg"
+		}
+		,
+		{
+			"id": "681",
+			"question": "What logo is this?",
+			"answer": "Insomnia Coffee",
+			"category": "Brands & Logos",
+			"picture": "logo_681.png"
+		}
+		,
+		{
+			"id": "682",
+			"question": "On July 19th 1972, Muhammad Ali fought which heavyweight boxer in Croke Park?",
+			"answer": "Al 'Blue' Lewis",
+			"category": "Sport"
+		}
+		,
+		{
+			"id": "683",
+			"question": "Which Irish boyband member was a professional goalkeeper for Leeds United from 1995-97?",
+			"answer": "Nicky Byrne",
+			"category": "Football"
+		}
+		]
 }

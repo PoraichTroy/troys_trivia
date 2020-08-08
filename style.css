@@ -19,6 +19,7 @@
 	text-align: center;
 	background-color: #9370DB;
 	border-style: solid;
+	border-color: #4717F6;
 }
 
 .footer {
@@ -166,14 +167,14 @@
 	text-align: center;
 	width: 60%;
 	height: 5%;
-	left:10%;
+	left:7.5%;
 	bottom: 28%
 }
 
 #question {
-	 width: 70%;
+	 width: 75%;
 	 top: 0;
-	 left: 15%;
+	 left: 9%;
 	 position: absolute;
 	 word-wrap: break-word;
 	 text-align: center;
@@ -182,16 +183,24 @@
 #answered {
 	position: fixed;
 	bottom:13%;
-	left: 15%;
-	width: 50%;
+	left: 8%;
+	width: 60%;
     height: 10%;
 	text-align: center;
+}
+
+#categories {
+	position: fixed;
+	left: 21%;
+	top: 0;
+	width: 30%;
+	
 }
 
 .quizMaster {
 	position: absolute;
     top: 30%;
-    left: 37%;
+    left: 35%;
     width: 500px;
     height: 500px;
 	text-align: center;
@@ -209,6 +218,10 @@
 	position: relative;
 	margin: 0 auto;
 	text-align: center;
+}
+
+#image:active{
+	transform: scale(2.2);
 }
 
 #quote {
